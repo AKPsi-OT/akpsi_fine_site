@@ -1,4449 +1,2796 @@
 {
     "arjunaggarwal173@gmail.com": {
-        "name": "Aggarwal, Arjun",
+        "name": "aggarwal, arjun",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$90.00",
-            "Total fine before reduction": "$90.00",
-            "Brother Hood Fines": "$20.00",
-            "Rush Event Fines": "$5.00",
-            "Checkpoint fines": "$10.00",
-            "Ritual Fines": "$30.00",
-            "Requirement Fines": "$25.00",
+            "Final fine": "$110.00",
+            "Brotherhood": "$20.00",
+            "Rush": "$5.00",
+            "Checkpoint": "$10.00",
+            "Ritual": "$30.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "UA",
-            "10/3": "UA",
-            "10/10": "UA",
-            "10/17": "UA",
-            "10/24": "UA",
-            "11/7": "UA",
-            "11/14": "UA",
-            "11/21": "UA",
-            "Notes": "0",
-            "UA": "7",
-            "": "Bagchi, Aadria",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$20.00",
-            "Elections": "UA"
+            "events": [
+                "9/26",
+                "10/3",
+                "10/10",
+                "10/17",
+                "10/24",
+                "11/7",
+                "11/14"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "UA",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "2",
-            "": "FALSE",
-            "Total Fine": "$10.00"
+            "events": [
+                "Checkpoint 1",
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "UA",
-            "Midcourt": "UA",
-            "Court of Honor": "PRESENT",
-            "Graduation": "UA",
-            "UA/ULA/UED": "3",
-            "Missed": "3",
-            "Total Fine": "$30.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Induction 2/17",
+                "Midcourt",
+                "Graduation"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
-            "Total Points": "4",
-            "Missing out of 9": "5",
-            "Missing out of 6": "2",
-            "First": "Aggarwal",
-            "Last": " Arjun",
-            "sanitized name": "aggarwal, arjun",
-            "Fine": "$25.00"
+            "Total Points": "0",
+            "Missing out of 9": "9",
+            "Missing out of 6": "6",
+            "Professional": "",
+            "Brotherhood": "0",
+            "DEI": "0",
+            "Fundraising": "2",
+            "Community Service": "1",
+            "Total": "4",
+            "": "",
+            "Cleaned Name": "schwartz, megan",
+            "What type of event was it?": "Community Service"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Aggarwal",
-            "First": " Arjun",
-            "Sanitized": "aggarwal, arjun",
             "Fine Reduction": "$0.00"
         }
     },
     "jahluwal@terpmail.umd.edu": {
-        "name": "Ahluwalia, Jasdeep",
+        "name": "ahluwalia, jasdeep",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$115.00",
-            "Total fine before reduction": "$115.00",
-            "Brother Hood Fines": "$15.00",
-            "Rush Event Fines": "$5.00",
-            "Checkpoint fines": "$10.00",
-            "Ritual Fines": "$40.00",
-            "Requirement Fines": "$45.00",
+            "Final fine": "$115.00",
+            "Brotherhood": "$15.00",
+            "Rush": "$5.00",
+            "Checkpoint": "$10.00",
+            "Ritual": "$40.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "UA",
-            "10/3": "UA",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "UA",
-            "11/7": "UA",
-            "11/14": "UA",
-            "11/21": "UA",
-            "Notes": "1",
-            "UA": "6",
-            "": "Bootwala, Ayman",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$15.00",
-            "Elections": "PRESENT"
+            "events": [
+                "9/26",
+                "10/3",
+                "10/10",
+                "10/24",
+                "11/7",
+                "11/14"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "UA",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "2",
-            "": "FALSE",
-            "Total Fine": "$10.00"
+            "events": [
+                "Checkpoint 1",
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "UA",
-            "Midcourt": "UA",
-            "Court of Honor": "UA",
-            "Graduation": "UA",
-            "UA/ULA/UED": "4",
-            "Missed": "4",
-            "Total Fine": "$40.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Induction 2/17",
+                "Midcourt",
+                "Court of Honor",
+                "Graduation"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
             "Total Points": "0",
             "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "First": "Ahluwalia",
-            "Last": " Jasdeep",
-            "sanitized name": "ahluwalia, jasdeep",
-            "Fine": "$45.00"
+            "Missing out of 6": "6"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Ahluwalia",
-            "First": " Jasdeep",
-            "Sanitized": "ahluwalia, jasdeep",
             "Fine Reduction": "$0.00"
         }
     },
     "william.ahn01@gmail.com": {
-        "name": "Ahn, William",
+        "name": "ahn, william",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$135.00",
-            "Total fine before reduction": "$135.00",
-            "Brother Hood Fines": "$15.00",
-            "Rush Event Fines": "$25.00",
-            "Checkpoint fines": "$10.00",
-            "Ritual Fines": "$40.00",
-            "Requirement Fines": "$45.00",
+            "Final fine": "$140.00",
+            "Brotherhood": "$20.00",
+            "Rush": "$25.00",
+            "Checkpoint": "$10.00",
+            "Ritual": "$40.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "EA",
-            "9/26": "UA",
-            "10/3": "UA",
-            "10/10": "UA",
-            "10/17": "UA",
-            "10/24": "UA",
-            "11/7": "UA",
-            "11/14": "UA",
-            "11/21": "UA",
-            "Notes": "1",
-            "UA": "6",
-            "": "Dutta, Arshiya",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$15.00",
-            "Elections": "UA"
+            "events": [
+                "9/26",
+                "10/3",
+                "10/10",
+                "10/17",
+                "10/24",
+                "11/7",
+                "11/14"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "UA",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "2",
-            "": "FALSE",
-            "Total Fine": "$10.00"
+            "events": [
+                "Checkpoint 1",
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "UA",
-            "Midcourt": "UA",
-            "Court of Honor": "UA",
-            "Graduation": "UA",
-            "UA/ULA/UED": "4",
-            "Missed": "4",
-            "Total Fine": "$40.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Induction 2/17",
+                "Midcourt",
+                "Court of Honor",
+                "Graduation"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
             "Total Points": "0",
             "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "First": "Ahn",
-            "Last": " William",
-            "sanitized name": "ahn, william",
-            "Fine": "$45.00"
+            "Missing out of 6": "6"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Ahn",
-            "First": " William",
-            "Sanitized": "ahn, william",
             "Fine Reduction": "$0.00"
         }
     },
     "samiassaf105@gmail.com": {
-        "name": "Assaf, Sami",
+        "name": "assaf, sami",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$115.00",
-            "Total fine before reduction": "$115.00",
-            "Brother Hood Fines": "$20.00",
-            "Rush Event Fines": "$0.00",
-            "Checkpoint fines": "$10.00",
-            "Ritual Fines": "$40.00",
-            "Requirement Fines": "$45.00",
+            "Final fine": "$95.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$0.00",
+            "Checkpoint": "$10.00",
+            "Ritual": "$40.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "UA",
-            "10/3": "UA",
-            "10/10": "UA",
-            "10/17": "UA",
-            "10/24": "UA",
-            "11/7": "UA",
-            "11/14": "UA",
-            "11/21": "UA",
-            "Notes": "0",
-            "UA": "7",
-            "": "Lam, Hillary",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$20.00",
-            "Elections": "PRESENT"
+            "events": []
         },
         "Checkpoints": {
-            "Checkpoint 1": "UA",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "2",
-            "": "FALSE",
-            "Total Fine": "$10.00"
+            "events": [
+                "Checkpoint 1",
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "UA",
-            "Midcourt": "UA",
-            "Court of Honor": "UA",
-            "Graduation": "UA",
-            "UA/ULA/UED": "4",
-            "Missed": "4",
-            "Total Fine": "$40.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Induction 2/17",
+                "Midcourt",
+                "Court of Honor",
+                "Graduation"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
             "Total Points": "0",
             "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "First": "Assaf",
-            "Last": " Sami",
-            "sanitized name": "assaf, sami",
-            "Fine": "$45.00"
+            "Missing out of 6": "6"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Assaf",
-            "First": " Sami",
-            "Sanitized": "assaf, sami",
             "Fine Reduction": "$0.00"
         }
     },
     "aadriab@gmail.com": {
-        "name": "Bagchi, Aadria",
+        "name": "bagchi, aadria",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$85.00",
-            "Total fine before reduction": "$85.00",
-            "Brother Hood Fines": "$20.00",
-            "Rush Event Fines": "$0.00",
-            "Checkpoint fines": "$10.00",
-            "Ritual Fines": "$10.00",
-            "Requirement Fines": "$45.00",
+            "Final fine": "$65.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$0.00",
+            "Checkpoint": "$10.00",
+            "Ritual": "$10.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "UA",
-            "10/3": "UA",
-            "10/10": "UA",
-            "10/17": "UA",
-            "10/24": "UA",
-            "11/7": "UA",
-            "11/14": "UA",
-            "11/21": "UA",
-            "Notes": "0",
-            "UA": "7",
-            "": "Nejad, Darius",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$20.00",
-            "Elections": "PRESENT"
+            "events": []
         },
         "Checkpoints": {
-            "Checkpoint 1": "UA",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "2",
-            "": "FALSE",
-            "Total Fine": "$10.00"
+            "events": [
+                "Checkpoint 1",
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "EA",
-            "Midcourt": "EA",
-            "Court of Honor": "EA",
-            "Graduation": "UA",
-            "UA/ULA/UED": "1",
-            "Missed": "1",
-            "Total Fine": "$10.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Graduation"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
             "Total Points": "0",
             "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "First": "Bagchi",
-            "Last": " Aadria",
-            "sanitized name": "bagchi, aadria",
-            "Fine": "$45.00"
+            "Missing out of 6": "6"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Bagchi",
-            "First": " Aadria",
-            "Sanitized": "bagchi, aadria",
             "Fine Reduction": "$0.00"
         }
     },
     "ebenne92@terpmail.umd.edu": {
-        "name": "Bennett, Eric",
+        "name": "bennett, eric",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$85.00",
-            "Total fine before reduction": "$85.00",
-            "Brother Hood Fines": "$15.00",
-            "Rush Event Fines": "$5.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$20.00",
-            "Requirement Fines": "$45.00",
+            "Final fine": "$80.00",
+            "Brotherhood": "$10.00",
+            "Rush": "$5.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$20.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "UA",
-            "10/3": "UA",
-            "10/10": "UA",
-            "10/17": "UA",
-            "10/24": "PRESENT",
-            "11/7": "UA",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "2",
-            "UA": "6",
-            "": "Padmanabhan, Meghana",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$15.00",
-            "Elections": "PRESENT"
+            "events": [
+                "9/26",
+                "10/3",
+                "10/10",
+                "10/17",
+                "11/7"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "PRESENT",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "1",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": [
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "UA",
-            "Midcourt": "UA",
-            "Court of Honor": "PRESENT",
-            "Graduation": "PRESENT",
-            "UA/ULA/UED": "2",
-            "Missed": "2",
-            "Total Fine": "$20.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Induction 2/17",
+                "Midcourt"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
             "Total Points": "0",
             "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "First": "Bennett",
-            "Last": " Eric",
-            "sanitized name": "bennett, eric",
-            "Fine": "$45.00"
+            "Missing out of 6": "6"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Bennett",
-            "First": " Eric",
-            "Sanitized": "bennett, eric",
             "Fine Reduction": "$0.00"
         }
     },
     "ayman.bootwala@gmail.com": {
-        "name": "Bootwala, Ayman",
+        "name": "bootwala, ayman",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$65.00",
-            "Total fine before reduction": "$65.00",
-            "Brother Hood Fines": "$10.00",
-            "Rush Event Fines": "$0.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$10.00",
-            "Requirement Fines": "$45.00",
+            "Final fine": "$60.00",
+            "Brotherhood": "$5.00",
+            "Rush": "$0.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$10.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "UA",
-            "10/3": "UA",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "PRESENT",
-            "11/7": "UA",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "3",
-            "UA": "5",
-            "": "Ahn, William",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$10.00",
-            "Elections": "UA"
+            "events": [
+                "9/26",
+                "10/3",
+                "10/10",
+                "11/7"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "EA",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "1",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": [
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "PRESENT",
-            "Midcourt": "UA",
-            "Court of Honor": "PRESENT",
-            "Graduation": "PRESENT",
-            "UA/ULA/UED": "1",
-            "Missed": "1",
-            "Total Fine": "$10.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Midcourt"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
             "Total Points": "0",
             "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "First": "Bootwala",
-            "Last": " Ayman",
-            "sanitized name": "bootwala, ayman",
-            "Fine": "$45.00"
+            "Missing out of 6": "6"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Bootwala",
-            "First": " Ayman",
-            "Sanitized": "bootwala, ayman",
             "Fine Reduction": "$0.00"
         }
     },
     "eileenc@terpmail.umd.edu": {
-        "name": "Chen, Eileen",
+        "name": "chen, eileen",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$0.00",
-            "Total fine before reduction": "$0.00",
-            "Brother Hood Fines": "$0.00",
-            "Rush Event Fines": "$0.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$0.00",
-            "Requirement Fines": "$0.00",
+            "Final fine": "$10.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$0.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$0.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$35.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "PRESENT",
-            "10/3": "UA",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "PRESENT",
-            "11/7": "PRESENT",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "5",
-            "UA": "3",
-            "": "Assaf, Sami",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$0.00",
-            "Elections": "UA"
+            "events": [
+                "10/3",
+                "10/10"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "PRESENT",
-            "Checkpoint 2": "PRESENT",
-            "Missed (out of 1 required)": "0",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": []
         },
         "Rituals": {
-            "Induction 2/17": "PRESENT",
-            "Midcourt": "PRESENT",
-            "Court of Honor": "PRESENT",
-            "Graduation": "PRESENT",
-            "UA/ULA/UED": "0",
-            "Missed": "0",
-            "Total Fine": "$0.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": []
         },
         "Requirement Fines": {
-            "RR": "FALSE",
-            "Total Points": "11",
-            "Missing out of 9": "0",
-            "Missing out of 6": "0",
-            "First": "Chen",
-            "Last": " Eileen",
-            "sanitized name": "chen, eileen",
-            "Fine": "$0.00"
+            "Total Points": "0",
+            "Missing out of 9": "9",
+            "Missing out of 6": "6",
+            "Professional": "",
+            "Brotherhood": "4",
+            "DEI": "2",
+            "Fundraising": "1",
+            "Community Service": "2",
+            "Total": "11",
+            "": "",
+            "Cleaned Name": "yim, daeun",
+            "What type of event was it?": "Fundraising"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "7",
-            "Last": "Chen",
-            "First": " Eileen",
-            "Sanitized": "chen, eileen",
             "Fine Reduction": "$35.00"
         }
     },
     "jchiang1@terpmail.umd.edu": {
-        "name": "Chiang, Jennifer",
+        "name": "chiang, jennifer",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$55.00",
-            "Total fine before reduction": "$55.00",
-            "Brother Hood Fines": "$0.00",
-            "Rush Event Fines": "$0.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$10.00",
-            "Requirement Fines": "$45.00",
+            "Final fine": "$55.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$0.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$10.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "EA",
-            "9/26": "PRESENT",
-            "10/3": "EA",
-            "10/10": "EA",
-            "10/17": "ELA",
-            "10/24": "PRESENT",
-            "11/7": "PRESENT",
-            "11/14": "EA",
-            "11/21": "UA",
-            "Notes": "7",
-            "UA": "0",
-            "": "Doan, Co-Tu",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$0.00",
-            "Elections": "PRESENT"
+            "events": []
         },
         "Checkpoints": {
-            "Checkpoint 1": "PRESENT",
-            "Checkpoint 2": "PRESENT",
-            "Missed (out of 1 required)": "0",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": []
         },
         "Rituals": {
-            "Induction 2/17": "UA",
-            "Midcourt": "PRESENT",
-            "Court of Honor": "PRESENT",
-            "Graduation": "PRESENT",
-            "UA/ULA/UED": "1",
-            "Missed": "1",
-            "Total Fine": "$10.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Induction 2/17"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
             "Total Points": "0",
             "Missing out of 9": "9",
             "Missing out of 6": "6",
-            "First": "Chiang",
-            "Last": " Jennifer",
-            "sanitized name": "chiang, jennifer",
-            "Fine": "$45.00"
+            "Professional": "",
+            "Brotherhood": "2",
+            "DEI": "2",
+            "Fundraising": "1",
+            "Community Service": "2",
+            "Total": "10",
+            "": "",
+            "Cleaned Name": "dang, diem",
+            "What type of event was it?": "Professional"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Chiang",
-            "First": " Jennifer",
-            "Sanitized": "chiang, jennifer",
             "Fine Reduction": "$0.00"
         }
     },
     "caelia.chung@gmail.com": {
-        "name": "Chung, Caelia",
+        "name": "chung, caelia",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$45.00",
-            "Total fine before reduction": "$50.00",
-            "Brother Hood Fines": "$10.00",
-            "Rush Event Fines": "$5.00",
-            "Checkpoint fines": "$10.00",
-            "Ritual Fines": "$10.00",
-            "Requirement Fines": "$15.00",
+            "Final fine": "$70.00",
+            "Brotherhood": "$5.00",
+            "Rush": "$5.00",
+            "Checkpoint": "$10.00",
+            "Ritual": "$10.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$5.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "UA",
-            "10/3": "UA",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "UA",
-            "11/7": "PRESENT",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "3",
-            "UA": "5",
-            "": "Kapoor, Esha",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$10.00",
-            "Elections": "PRESENT"
+            "events": [
+                "9/26",
+                "10/3",
+                "10/10",
+                "10/24"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "UA",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "2",
-            "": "FALSE",
-            "Total Fine": "$10.00"
+            "events": [
+                "Checkpoint 1",
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "UA",
-            "Midcourt": "PRESENT",
-            "Court of Honor": "PRESENT",
-            "Graduation": "PRESENT",
-            "UA/ULA/UED": "1",
-            "Missed": "1",
-            "Total Fine": "$10.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Induction 2/17"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
-            "Total Points": "6",
-            "Missing out of 9": "3",
-            "Missing out of 6": "0",
-            "First": "Chung",
-            "Last": " Caelia",
-            "sanitized name": "chung, caelia",
-            "Fine": "$15.00"
+            "Total Points": "0",
+            "Missing out of 9": "9",
+            "Missing out of 6": "6",
+            "Professional": "",
+            "Brotherhood": "3",
+            "DEI": "1",
+            "Fundraising": "0",
+            "Community Service": "2",
+            "Total": "6",
+            "": "",
+            "Cleaned Name": "yuan, meilin",
+            "What type of event was it?": "Brotherhood"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "1",
-            "Last": "Chung",
-            "First": " Caelia",
-            "Sanitized": "chung, caelia",
             "Fine Reduction": "$5.00"
         }
     },
     "ryandabbs88@gmail.com": {
-        "name": "Dabbs, Ryan",
+        "name": "dabbs, ryan",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$80.00",
-            "Total fine before reduction": "$80.00",
-            "Brother Hood Fines": "$10.00",
-            "Rush Event Fines": "$15.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$10.00",
-            "Requirement Fines": "$45.00",
+            "Final fine": "$80.00",
+            "Brotherhood": "$10.00",
+            "Rush": "$15.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$10.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "PRESENT",
-            "10/3": "UA",
-            "10/10": "UA",
-            "10/17": "UA",
-            "10/24": "UA",
-            "11/7": "PRESENT",
-            "11/14": "UA",
-            "11/21": "UA",
-            "Notes": "2",
-            "UA": "5",
-            "": "Lau, Vivien",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$10.00",
-            "Elections": "PRESENT"
+            "events": [
+                "10/3",
+                "10/10",
+                "10/17",
+                "10/24",
+                "11/14"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "PRESENT",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "1",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": [
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "PRESENT",
-            "Midcourt": "PRESENT",
-            "Court of Honor": "PRESENT",
-            "Graduation": "UA",
-            "UA/ULA/UED": "1",
-            "Missed": "1",
-            "Total Fine": "$10.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Graduation"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
             "Total Points": "0",
             "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "First": "Dabbs",
-            "Last": " Ryan",
-            "sanitized name": "dabbs, ryan",
-            "Fine": "$45.00"
+            "Missing out of 6": "6"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Dabbs",
-            "First": " Ryan",
-            "Sanitized": "dabbs, ryan",
             "Fine Reduction": "$0.00"
         }
     },
     "supriyad@terpmail.umd.edu": {
-        "name": "Daddi, Supriya",
+        "name": "daddi, supriya",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$40.00",
-            "Total fine before reduction": "$55.00",
-            "Brother Hood Fines": "$15.00",
-            "Rush Event Fines": "$10.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$20.00",
-            "Requirement Fines": "$10.00",
+            "Final fine": "$65.00",
+            "Brotherhood": "$5.00",
+            "Rush": "$10.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$20.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$15.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "UA",
-            "10/3": "UA",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "UA",
-            "11/7": "UA",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "2",
-            "UA": "6",
-            "": "Lazo, William",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$15.00",
-            "Elections": "UA"
+            "events": [
+                "9/26",
+                "10/3",
+                "10/24",
+                "11/7"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "UA",
-            "Checkpoint 2": "PRESENT",
-            "Missed (out of 1 required)": "1",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": [
+                "Checkpoint 1"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "EA",
-            "Midcourt": "UA",
-            "Court of Honor": "PRESENT",
-            "Graduation": "UA",
-            "UA/ULA/UED": "2",
-            "Missed": "2",
-            "Total Fine": "$20.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Midcourt",
+                "Graduation"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
-            "Total Points": "7",
-            "Missing out of 9": "2",
-            "Missing out of 6": "0",
-            "First": "Daddi",
-            "Last": " Supriya",
-            "sanitized name": "daddi, supriya",
-            "Fine": "$10.00"
+            "Total Points": "0",
+            "Missing out of 9": "9",
+            "Missing out of 6": "6",
+            "Professional": "",
+            "Brotherhood": "1",
+            "DEI": "1",
+            "Fundraising": "1",
+            "Community Service": "2",
+            "Total": "7",
+            "": "",
+            "Cleaned Name": "o'toole, jack",
+            "What type of event was it?": "Brotherhood"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "3",
-            "Last": "Daddi",
-            "First": " Supriya",
-            "Sanitized": "daddi, supriya",
             "Fine Reduction": "$15.00"
         }
     },
     "diem@terpmail.umd.edu": {
-        "name": "Dang, Diem",
+        "name": "dang, diem",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$70.00",
-            "Total fine before reduction": "$70.00",
-            "Brother Hood Fines": "$20.00",
-            "Rush Event Fines": "$10.00",
-            "Checkpoint fines": "$10.00",
-            "Ritual Fines": "$20.00",
-            "Requirement Fines": "$10.00",
+            "Final fine": "$105.00",
+            "Brotherhood": "$20.00",
+            "Rush": "$10.00",
+            "Checkpoint": "$10.00",
+            "Ritual": "$20.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "UA",
-            "10/3": "UA",
-            "10/10": "UA",
-            "10/17": "UA",
-            "10/24": "UA",
-            "11/7": "UA",
-            "11/14": "UA",
-            "11/21": "UA",
-            "Notes": "0",
-            "UA": "7",
-            "": "Nayak, Sareet",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$20.00",
-            "Elections": "PRESENT"
+            "events": [
+                "9/26",
+                "10/3",
+                "10/10",
+                "10/17",
+                "10/24",
+                "11/7",
+                "11/14"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "UA",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "2",
-            "": "FALSE",
-            "Total Fine": "$10.00"
+            "events": [
+                "Checkpoint 1",
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "UA",
-            "Midcourt": "PRESENT",
-            "Court of Honor": "EA",
-            "Graduation": "UA",
-            "UA/ULA/UED": "2",
-            "Missed": "2",
-            "Total Fine": "$20.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Induction 2/17",
+                "Graduation"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
-            "Total Points": "7",
-            "Missing out of 9": "2",
-            "Missing out of 6": "0",
-            "First": "Dang",
-            "Last": " Diem",
-            "sanitized name": "dang, diem",
-            "Fine": "$10.00"
+            "Total Points": "0",
+            "Missing out of 9": "9",
+            "Missing out of 6": "6",
+            "Professional": "Community Service",
+            "Brotherhood": "1",
+            "DEI": "1",
+            "Fundraising": "1",
+            "Community Service": "1",
+            "Total": "7",
+            "": "",
+            "Cleaned Name": "marquez, adilene",
+            "What type of event was it?": "DEI"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Dang",
-            "First": " Diem",
-            "Sanitized": "dang, diem",
             "Fine Reduction": "$0.00"
         }
     },
     "rebecca.a.destefano@gmail.com": {
-        "name": "DeStefano, Rebecca",
+        "name": "destefano, rebecca",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$65.00",
-            "Total fine before reduction": "$65.00",
-            "Brother Hood Fines": "$10.00",
-            "Rush Event Fines": "$5.00",
-            "Checkpoint fines": "$10.00",
-            "Ritual Fines": "$10.00",
-            "Requirement Fines": "$30.00",
+            "Final fine": "$80.00",
+            "Brotherhood": "$10.00",
+            "Rush": "$5.00",
+            "Checkpoint": "$10.00",
+            "Ritual": "$10.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "PRESENT",
-            "10/3": "UA",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "UA",
-            "11/7": "UA",
-            "11/14": "UA",
-            "11/21": "UA",
-            "Notes": "2",
-            "UA": "5",
-            "": "Ortiz, Adam",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$10.00",
-            "Elections": "PRESENT"
+            "events": [
+                "10/3",
+                "10/10",
+                "10/24",
+                "11/7",
+                "11/14"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "UA",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "2",
-            "": "FALSE",
-            "Total Fine": "$10.00"
+            "events": [
+                "Checkpoint 1",
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "EA",
-            "Midcourt": "EA",
-            "Court of Honor": "EA",
-            "Graduation": "UA",
-            "UA/ULA/UED": "1",
-            "Missed": "1",
-            "Total Fine": "$10.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Graduation"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
-            "Total Points": "3",
-            "Missing out of 9": "6",
-            "Missing out of 6": "3",
-            "First": "DeStefano",
-            "Last": " Rebecca",
-            "sanitized name": "destefano, rebecca",
-            "Fine": "$30.00"
+            "Total Points": "0",
+            "Missing out of 9": "9",
+            "Missing out of 6": "6",
+            "Professional": "",
+            "Brotherhood": "1",
+            "DEI": "1",
+            "Fundraising": "0",
+            "Community Service": "0",
+            "Total": "3",
+            "": "",
+            "Cleaned Name": "swensen, emma",
+            "What type of event was it?": "Professional"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "DeStefano",
-            "First": " Rebecca",
-            "Sanitized": "destefano, rebecca",
             "Fine Reduction": "$0.00"
         }
     },
     "cdoan@terpmail.umd.edu": {
-        "name": "Doan, Co-Tu",
+        "name": "doan, co-tu",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$0.00",
-            "Total fine before reduction": "$10.00",
-            "Brother Hood Fines": "$0.00",
-            "Rush Event Fines": "$0.00",
-            "Checkpoint fines": "$10.00",
-            "Ritual Fines": "$0.00",
-            "Requirement Fines": "$0.00",
+            "Final fine": "$40.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$0.00",
+            "Checkpoint": "$10.00",
+            "Ritual": "$0.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$15.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "EA",
-            "9/26": "PRESENT",
-            "10/3": "UA",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "PRESENT",
-            "11/7": "PRESENT",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "6",
-            "UA": "2",
-            "": "Yim, Da Eun",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$0.00",
-            "Elections": "PRESENT"
+            "events": [
+                "10/3"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "UA",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "2",
-            "": "FALSE",
-            "Total Fine": "$10.00"
+            "events": [
+                "Checkpoint 1",
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "PRESENT",
-            "Midcourt": "PRESENT",
-            "Court of Honor": "PRESENT",
-            "Graduation": "PRESENT",
-            "UA/ULA/UED": "0",
-            "Missed": "0",
-            "Total Fine": "$0.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": []
         },
         "Requirement Fines": {
-            "RR": "FALSE",
-            "Total Points": "9",
-            "Missing out of 9": "0",
-            "Missing out of 6": "0",
-            "First": "Doan",
-            "Last": " Co-Tu",
-            "sanitized name": "doan, co-tu",
-            "Fine": "$0.00"
+            "Total Points": "0",
+            "Missing out of 9": "9",
+            "Missing out of 6": "6",
+            "Professional": "",
+            "Brotherhood": "2",
+            "DEI": "2",
+            "Fundraising": "1",
+            "Community Service": "2",
+            "Total": "9",
+            "": "",
+            "Cleaned Name": "marquez, adilene",
+            "What type of event was it?": "Brotherhood"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "3",
-            "Last": "Doan",
-            "First": " Co-Tu",
-            "Sanitized": "doan, co-tu",
             "Fine Reduction": "$15.00"
         }
     },
     "adong@umd.edu": {
-        "name": "Dong, Alex",
+        "name": "dong, alex",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$60.00",
-            "Total fine before reduction": "$60.00",
-            "Brother Hood Fines": "$0.00",
-            "Rush Event Fines": "$5.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$10.00",
-            "Requirement Fines": "$45.00",
+            "Final fine": "$60.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$5.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$10.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "PRESENT",
-            "10/3": "EA",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "UA",
-            "11/7": "PRESENT",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "5",
-            "UA": "3",
-            "": "Zhao, Bill",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$0.00",
-            "Elections": "PRESENT"
+            "events": [
+                "10/10",
+                "10/24"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "PRESENT",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "1",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": [
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "PRESENT",
-            "Midcourt": "PRESENT",
-            "Court of Honor": "PRESENT",
-            "Graduation": "UA",
-            "UA/ULA/UED": "1",
-            "Missed": "1",
-            "Total Fine": "$10.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Graduation"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
             "Total Points": "0",
             "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "First": "Dong",
-            "Last": " Alex",
-            "sanitized name": "dong, alex",
-            "Fine": "$45.00"
+            "Missing out of 6": "6"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Dong",
-            "First": " Alex",
-            "Sanitized": "dong, alex",
             "Fine Reduction": "$0.00"
         }
     },
     "arshiya.dutta12@gmail.com": {
-        "name": "Dutta, Arshiya",
+        "name": "dutta, arshiya",
         "Fines": {
-            "RR": "TRUE",
-            "Final  Fine": "$120.00",
-            "Total fine before reduction": "$120.00",
-            "Brother Hood Fines": "$20.00",
-            "Rush Event Fines": "$20.00",
-            "Checkpoint fines": "$10.00",
-            "Ritual Fines": "$40.00",
-            "Requirement Fines": "$30.00",
+            "Final fine": "$130.00",
+            "Brotherhood": "$30.00",
+            "Rush": "$20.00",
+            "Checkpoint": "$10.00",
+            "Ritual": "$40.00",
+            "Requirement": "$30.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "UA",
-            "10/3": "UA",
-            "10/10": "UA",
-            "10/17": "UA",
-            "10/24": "UA",
-            "11/7": "UA",
-            "11/14": "UA",
-            "11/21": "UA",
-            "Notes": "0",
-            "UA": "7",
-            "": "Aggarwal, Arjun",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$20.00",
-            "Elections": "UA"
+            "events": [
+                "9/26",
+                "10/3",
+                "10/17",
+                "10/24",
+                "11/7",
+                "11/14"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "UA",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "2",
-            "": "TRUE",
-            "Total Fine": "$10.00"
+            "events": [
+                "Checkpoint 1",
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "UA",
-            "Midcourt": "UA",
-            "Court of Honor": "UA",
-            "Graduation": "UA",
-            "UA/ULA/UED": "4",
-            "Missed": "4",
-            "Total Fine": "$40.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Induction 2/17",
+                "Midcourt",
+                "Court of Honor",
+                "Graduation"
+            ]
         },
         "Requirement Fines": {
-            "RR": "TRUE",
             "Total Points": "0",
             "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "First": "Dutta",
-            "Last": " Arshiya",
-            "sanitized name": "dutta, arshiya",
-            "Fine": "$30.00"
+            "Missing out of 6": "6"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Dutta",
-            "First": " Arshiya",
-            "Sanitized": "dutta, arshiya",
             "Fine Reduction": "$0.00"
         }
     },
     "tushar03@gmail.com": {
-        "name": "Garg, Tushar",
+        "name": "garg, tushar",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$80.00",
-            "Total fine before reduction": "$80.00",
-            "Brother Hood Fines": "$10.00",
-            "Rush Event Fines": "$5.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$20.00",
-            "Requirement Fines": "$45.00",
+            "Final fine": "$70.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$5.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$20.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "UA",
-            "10/3": "PRESENT",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "UA",
-            "11/7": "UA",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "3",
-            "UA": "5",
-            "": "Chiang, Jennifer",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$10.00",
-            "Elections": "PRESENT"
+            "events": [
+                "9/26",
+                "10/24",
+                "11/7"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "PRESENT",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "1",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": [
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "UA",
-            "Midcourt": "PRESENT",
-            "Court of Honor": "PRESENT",
-            "Graduation": "UA",
-            "UA/ULA/UED": "2",
-            "Missed": "2",
-            "Total Fine": "$20.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Induction 2/17",
+                "Graduation"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
             "Total Points": "0",
             "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "First": "Garg",
-            "Last": " Tushar",
-            "sanitized name": "garg, tushar",
-            "Fine": "$45.00"
+            "Missing out of 6": "6"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Garg",
-            "First": " Tushar",
-            "Sanitized": "garg, tushar",
             "Fine Reduction": "$0.00"
         }
     },
     "hud004@terpmail.umd.edu": {
-        "name": "Grill, Hudson",
+        "name": "grill, hudson",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$45.00",
-            "Total fine before reduction": "$45.00",
-            "Brother Hood Fines": "$0.00",
-            "Rush Event Fines": "$0.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$0.00",
-            "Requirement Fines": "$45.00",
+            "Final fine": "$45.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$0.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$0.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "PRESENT",
-            "10/3": "PRESENT",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "PRESENT",
-            "11/7": "PRESENT",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "6",
-            "UA": "2",
-            "": "Chung, Caelia",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$0.00",
-            "Elections": "PRESENT"
+            "events": []
         },
         "Checkpoints": {
-            "Checkpoint 1": "PRESENT",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "1",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": [
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "EA",
-            "Midcourt": "PRESENT",
-            "Court of Honor": "PRESENT",
-            "Graduation": "PRESENT",
-            "UA/ULA/UED": "0",
-            "Missed": "0",
-            "Total Fine": "$0.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": []
         },
         "Requirement Fines": {
-            "RR": "FALSE",
             "Total Points": "0",
             "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "First": "Grill",
-            "Last": " Hudson",
-            "sanitized name": "grill, hudson",
-            "Fine": "$45.00"
+            "Missing out of 6": "6"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Grill",
-            "First": " Hudson",
-            "Sanitized": "grill, hudson",
             "Fine Reduction": "$0.00"
         }
     },
     "rgudwani@terpmail.umd.edu": {
-        "name": "Gudwani, Rohan",
+        "name": "gudwani, rohan",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$1.25",
-            "Total fine before reduction": "$35.00",
-            "Brother Hood Fines": "$5.00",
-            "Rush Event Fines": "$0.00",
-            "Checkpoint fines": "$10.00",
-            "Ritual Fines": "$10.00",
-            "Requirement Fines": "$10.00",
+            "Final fine": "$31.25",
+            "Brotherhood": "$0.00",
+            "Rush": "$0.00",
+            "Checkpoint": "$10.00",
+            "Ritual": "$10.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$33.75"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "PRESENT",
-            "10/3": "UA",
-            "10/10": "UA",
-            "10/17": "UA",
-            "10/24": "PRESENT",
-            "11/7": "PRESENT",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "4",
-            "UA": "4",
-            "": "Mathur, Mudit",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$5.00",
-            "Elections": "PRESENT"
+            "events": [
+                "10/3",
+                "10/10",
+                "10/17"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "UA",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "2",
-            "": "FALSE",
-            "Total Fine": "$10.00"
+            "events": [
+                "Checkpoint 1",
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "PRESENT",
-            "Midcourt": "UA",
-            "Court of Honor": "PRESENT",
-            "Graduation": "PRESENT",
-            "UA/ULA/UED": "1",
-            "Missed": "1",
-            "Total Fine": "$10.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Midcourt"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
-            "Total Points": "7",
-            "Missing out of 9": "2",
-            "Missing out of 6": "0",
-            "First": "Gudwani",
-            "Last": " Rohan",
-            "sanitized name": "gudwani, rohan",
-            "Fine": "$10.00"
+            "Total Points": "0",
+            "Missing out of 9": "9",
+            "Missing out of 6": "6",
+            "Professional": "",
+            "Brotherhood": "3",
+            "DEI": "1",
+            "Fundraising": "1",
+            "Community Service": "1",
+            "Total": "7",
+            "": "",
+            "Cleaned Name": "shroff, marvi",
+            "What type of event was it?": "DEI"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "6.75",
-            "Last": "Gudwani",
-            "First": " Rohan",
-            "Sanitized": "gudwani, rohan",
             "Fine Reduction": "$33.75"
         }
     },
     "saahil.g16@gmail.com": {
-        "name": "Gupta, Saahil",
+        "name": "gupta, saahil",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$80.00",
-            "Total fine before reduction": "$80.00",
-            "Brother Hood Fines": "$5.00",
-            "Rush Event Fines": "$10.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$20.00",
-            "Requirement Fines": "$45.00",
+            "Final fine": "$75.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$10.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$20.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "UA",
-            "10/3": "EA",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "PRESENT",
-            "11/7": "UA",
-            "11/14": "UA",
-            "11/21": "UA",
-            "Notes": "3",
-            "UA": "4",
-            "": "Schwartz, Megan",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$5.00",
-            "Elections": "UA"
+            "events": [
+                "9/26",
+                "11/7",
+                "11/14"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "PRESENT",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "1",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": [
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "UA",
-            "Midcourt": "PRESENT",
-            "Court of Honor": "PRESENT",
-            "Graduation": "UA",
-            "UA/ULA/UED": "2",
-            "Missed": "2",
-            "Total Fine": "$20.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Induction 2/17",
+                "Graduation"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
             "Total Points": "0",
             "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "First": "Gupta",
-            "Last": " Saahil",
-            "sanitized name": "gupta, saahil",
-            "Fine": "$45.00"
+            "Missing out of 6": "6"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Gupta",
-            "First": " Saahil",
-            "Sanitized": "gupta, saahil",
             "Fine Reduction": "$0.00"
         }
     },
     "jimmyherman9@gmail.com": {
-        "name": "Herman, Jimmy",
+        "name": "herman, jimmy",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$10.00",
-            "Total fine before reduction": "$10.00",
-            "Brother Hood Fines": "$0.00",
-            "Rush Event Fines": "$0.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$10.00",
-            "Requirement Fines": "$0.00",
+            "Final fine": "$55.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$0.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$10.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "PRESENT",
-            "10/3": "EA",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "PRESENT",
-            "11/7": "PRESENT",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "6",
-            "UA": "2",
-            "": "Singh, Arushi",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$0.00",
-            "Elections": "UA"
+            "events": []
         },
         "Checkpoints": {
-            "Checkpoint 1": "PRESENT",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "1",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": [
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "UA",
-            "Midcourt": "PRESENT",
-            "Court of Honor": "PRESENT",
-            "Graduation": "PRESENT",
-            "UA/ULA/UED": "1",
-            "Missed": "1",
-            "Total Fine": "$10.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Induction 2/17"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
-            "Total Points": "9",
-            "Missing out of 9": "0",
-            "Missing out of 6": "0",
-            "First": "Herman",
-            "Last": " Jimmy",
-            "sanitized name": "herman, jimmy",
-            "Fine": "$0.00"
+            "Total Points": "0",
+            "Missing out of 9": "9",
+            "Missing out of 6": "6",
+            "Professional": "",
+            "Brotherhood": "2",
+            "DEI": "1",
+            "Fundraising": "2",
+            "Community Service": "2",
+            "Total": "9",
+            "": "",
+            "Cleaned Name": "schwartz, megan",
+            "What type of event was it?": "Community Service"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Herman",
-            "First": " Jimmy",
-            "Sanitized": "herman, jimmy",
             "Fine Reduction": "$0.00"
         }
     },
     "ujain23@terpmail.umd.edu": {
-        "name": "Jain, Umang",
+        "name": "jain, umang",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$95.00",
-            "Total fine before reduction": "$95.00",
-            "Brother Hood Fines": "$10.00",
-            "Rush Event Fines": "$0.00",
-            "Checkpoint fines": "$10.00",
-            "Ritual Fines": "$30.00",
-            "Requirement Fines": "$45.00",
+            "Final fine": "$90.00",
+            "Brotherhood": "$5.00",
+            "Rush": "$0.00",
+            "Checkpoint": "$10.00",
+            "Ritual": "$30.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "PRESENT",
-            "10/3": "UA",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "UA",
-            "11/7": "UA",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "3",
-            "UA": "5",
-            "": "Viswanathan, Ansh",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$10.00",
-            "Elections": "PRESENT"
+            "events": [
+                "10/3",
+                "10/10",
+                "10/24",
+                "11/7"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "UA",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "2",
-            "": "FALSE",
-            "Total Fine": "$10.00"
+            "events": [
+                "Checkpoint 1",
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "UA",
-            "Midcourt": "UA",
-            "Court of Honor": "UA",
-            "Graduation": "PRESENT",
-            "UA/ULA/UED": "3",
-            "Missed": "3",
-            "Total Fine": "$30.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Induction 2/17",
+                "Midcourt",
+                "Court of Honor"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
             "Total Points": "0",
             "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "First": "Jain",
-            "Last": " Umang",
-            "sanitized name": "jain, umang",
-            "Fine": "$45.00"
+            "Missing out of 6": "6"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Jain",
-            "First": " Umang",
-            "Sanitized": "jain, umang",
             "Fine Reduction": "$0.00"
         }
     },
     "ekapoor1@terpmail.umd.edu": {
-        "name": "Kapoor, Esha",
+        "name": "kapoor, esha",
         "Fines": {
-            "RR": "TRUE",
-            "Final  Fine": "$30.00",
-            "Total fine before reduction": "$30.00",
-            "Brother Hood Fines": "$0.00",
-            "Rush Event Fines": "$0.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$0.00",
-            "Requirement Fines": "$30.00",
+            "Final fine": "$35.00",
+            "Brotherhood": "$5.00",
+            "Rush": "$0.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$0.00",
+            "Requirement": "$30.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "UA",
-            "10/3": "PRESENT",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "PRESENT",
-            "11/7": "EA",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "5",
-            "UA": "3",
-            "": "Zhang, Rebecca",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$0.00",
-            "Elections": "PRESENT"
+            "events": [
+                "9/26"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "PRESENT",
-            "Checkpoint 2": "PRESENT",
-            "Missed (out of 1 required)": "0",
-            "": "TRUE",
-            "Total Fine": "$0.00"
+            "events": []
         },
         "Rituals": {
-            "Induction 2/17": "PRESENT",
-            "Midcourt": "EA",
-            "Court of Honor": "PRESENT",
-            "Graduation": "PRESENT",
-            "UA/ULA/UED": "0",
-            "Missed": "0",
-            "Total Fine": "$0.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": []
         },
         "Requirement Fines": {
-            "RR": "TRUE",
             "Total Points": "0",
             "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "First": "Kapoor",
-            "Last": " Esha",
-            "sanitized name": "kapoor, esha",
-            "Fine": "$30.00"
+            "Missing out of 6": "6"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Kapoor",
-            "First": " Esha",
-            "Sanitized": "kapoor, esha",
             "Fine Reduction": "$0.00"
         }
     },
     "kkarki1@terpmail.umd.edu": {
-        "name": "Karki, Kamana",
+        "name": "karki, kamana",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$65.00",
-            "Total fine before reduction": "$65.00",
-            "Brother Hood Fines": "$0.00",
-            "Rush Event Fines": "$0.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$20.00",
-            "Requirement Fines": "$45.00",
+            "Final fine": "$65.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$0.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$20.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "EA",
-            "10/3": "PRESENT",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "PRESENT",
-            "11/7": "UA",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "5",
-            "UA": "3",
-            "": "Crispino, Arun",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$0.00",
-            "Elections": "PRESENT"
+            "events": [
+                "11/7"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "PRESENT",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "1",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": [
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "UA",
-            "Midcourt": "PRESENT",
-            "Court of Honor": "EA",
-            "Graduation": "UA",
-            "UA/ULA/UED": "2",
-            "Missed": "2",
-            "Total Fine": "$20.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Induction 2/17",
+                "Graduation"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
             "Total Points": "0",
             "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "First": "Karki",
-            "Last": " Kamana",
-            "sanitized name": "karki, kamana",
-            "Fine": "$45.00"
+            "Missing out of 6": "6"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Karki",
-            "First": " Kamana",
-            "Sanitized": "karki, kamana",
             "Fine Reduction": "$0.00"
         }
     },
     "ryan.khan728@gmail.com": {
-        "name": "Khan, Ryan",
+        "name": "khan, ryan",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$115.00",
-            "Total fine before reduction": "$115.00",
-            "Brother Hood Fines": "$10.00",
-            "Rush Event Fines": "$20.00",
-            "Checkpoint fines": "$10.00",
-            "Ritual Fines": "$30.00",
-            "Requirement Fines": "$45.00",
+            "Final fine": "$115.00",
+            "Brotherhood": "$10.00",
+            "Rush": "$20.00",
+            "Checkpoint": "$10.00",
+            "Ritual": "$30.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "UA",
-            "10/3": "PRESENT",
-            "10/10": "UA",
-            "10/17": "UA",
-            "10/24": "PRESENT",
-            "11/7": "UA",
-            "11/14": "UA",
-            "11/21": "UA",
-            "Notes": "2",
-            "UA": "5",
-            "": "Hagstrom, Alma",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$10.00",
-            "Elections": "PRESENT"
+            "events": [
+                "9/26",
+                "10/10",
+                "10/17",
+                "11/7",
+                "11/14"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "UA",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "2",
-            "": "FALSE",
-            "Total Fine": "$10.00"
+            "events": [
+                "Checkpoint 1",
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "EA",
-            "Midcourt": "UA",
-            "Court of Honor": "UA",
-            "Graduation": "UA",
-            "UA/ULA/UED": "3",
-            "Missed": "3",
-            "Total Fine": "$30.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Midcourt",
+                "Court of Honor",
+                "Graduation"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
             "Total Points": "0",
             "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "First": "Khan",
-            "Last": " Ryan",
-            "sanitized name": "khan, ryan",
-            "Fine": "$45.00"
+            "Missing out of 6": "6"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Khan",
-            "First": " Ryan",
-            "Sanitized": "khan, ryan",
             "Fine Reduction": "$0.00"
         }
     },
     "Ykhan125@terpmail.umd.edu": {
-        "name": "Khan, Yusra",
+        "name": "khan, yusra",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$45.00",
-            "Total fine before reduction": "$45.00",
-            "Brother Hood Fines": "$0.00",
-            "Rush Event Fines": "$0.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$0.00",
-            "Requirement Fines": "$45.00",
+            "Final fine": "$45.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$0.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$0.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "PRESENT",
-            "10/3": "EA",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "PRESENT",
-            "11/7": "PRESENT",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "6",
-            "UA": "2",
-            "": "Harish, Rahul",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$0.00",
-            "Elections": "PRESENT"
+            "events": []
         },
         "Checkpoints": {
-            "Checkpoint 1": "PRESENT",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "1",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": [
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "EA",
-            "Midcourt": "PRESENT",
-            "Court of Honor": "PRESENT",
-            "Graduation": "PRESENT",
-            "UA/ULA/UED": "0",
-            "Missed": "0",
-            "Total Fine": "$0.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": []
         },
         "Requirement Fines": {
-            "RR": "FALSE",
             "Total Points": "0",
             "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "First": "Khan",
-            "Last": " Yusra",
-            "sanitized name": "khan, yusra",
-            "Fine": "$45.00"
+            "Missing out of 6": "6"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Khan",
-            "First": " Yusra",
-            "Sanitized": "khan, yusra",
             "Fine Reduction": "$0.00"
         }
     },
     "skim025@terpmail.umd.edu": {
-        "name": "Kim, So Eun",
+        "name": "kim, so eun",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$40.00",
-            "Total fine before reduction": "$45.00",
-            "Brother Hood Fines": "$0.00",
-            "Rush Event Fines": "$0.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$0.00",
-            "Requirement Fines": "$45.00",
+            "Final fine": "$40.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$0.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$0.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$5.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "EA",
-            "10/3": "PRESENT",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "PRESENT",
-            "11/7": "PRESENT",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "6",
-            "UA": "2",
-            "": "Jaware, Koena",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$0.00",
-            "Elections": "PRESENT"
+            "events": []
         },
         "Checkpoints": {
-            "Checkpoint 1": "PRESENT",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "1",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": [
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "EA",
-            "Midcourt": "PRESENT",
-            "Court of Honor": "EA",
-            "Graduation": "PRESENT",
-            "UA/ULA/UED": "0",
-            "Missed": "0",
-            "Total Fine": "$0.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": []
         },
         "Requirement Fines": {
-            "RR": "FALSE",
             "Total Points": "0",
             "Missing out of 9": "9",
             "Missing out of 6": "6",
-            "First": "Kim",
-            "Last": " So Eun",
-            "sanitized name": "kim, soeun",
-            "Fine": "$45.00"
+            "Professional": "",
+            "Brotherhood": "3",
+            "DEI": "2",
+            "Fundraising": "1",
+            "Community Service": "0",
+            "Total": "8",
+            "": "",
+            "Cleaned Name": "o'toole, jack",
+            "What type of event was it?": "Professional"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "1",
-            "Last": "Kim",
-            "First": " So Eun",
-            "Sanitized": "kim, soeun",
             "Fine Reduction": "$5.00"
         }
     },
     "koradagoutham01@gmail.com": {
-        "name": "Korada, Goutham",
+        "name": "korada, goutham",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$75.00",
-            "Total fine before reduction": "$75.00",
-            "Brother Hood Fines": "$10.00",
-            "Rush Event Fines": "$0.00",
-            "Checkpoint fines": "$10.00",
-            "Ritual Fines": "$10.00",
-            "Requirement Fines": "$45.00",
+            "Final fine": "$65.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$0.00",
+            "Checkpoint": "$10.00",
+            "Ritual": "$10.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "PRESENT",
-            "10/3": "PRESENT",
-            "10/10": "UA",
-            "10/17": "UA",
-            "10/24": "UA",
-            "11/7": "UA",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "3",
-            "UA": "5",
-            "": "Jia, Jason",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$10.00",
-            "Elections": "PRESENT"
+            "events": [
+                "10/17",
+                "10/24",
+                "11/7"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "UA",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "2",
-            "": "FALSE",
-            "Total Fine": "$10.00"
+            "events": [
+                "Checkpoint 1",
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "EA",
-            "Midcourt": "EA",
-            "Court of Honor": "PRESENT",
-            "Graduation": "UA",
-            "UA/ULA/UED": "1",
-            "Missed": "1",
-            "Total Fine": "$10.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Graduation"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
             "Total Points": "0",
             "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "First": "Korada",
-            "Last": " Goutham",
-            "sanitized name": "korada, goutham",
-            "Fine": "$45.00"
+            "Missing out of 6": "6"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Korada",
-            "First": " Goutham",
-            "Sanitized": "korada, goutham",
             "Fine Reduction": "$0.00"
         }
     },
     "hkreger@terpmail.umd.edu": {
-        "name": "Kreger, Henry",
+        "name": "kreger, henry",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$125.00",
-            "Total fine before reduction": "$125.00",
-            "Brother Hood Fines": "$15.00",
-            "Rush Event Fines": "$15.00",
-            "Checkpoint fines": "$10.00",
-            "Ritual Fines": "$40.00",
-            "Requirement Fines": "$45.00",
+            "Final fine": "$125.00",
+            "Brotherhood": "$15.00",
+            "Rush": "$15.00",
+            "Checkpoint": "$10.00",
+            "Ritual": "$40.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "UA",
-            "10/3": "UA",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "UA",
-            "11/7": "UA",
-            "11/14": "UA",
-            "11/21": "UA",
-            "Notes": "1",
-            "UA": "6",
-            "": "Kim, Andrew",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$15.00",
-            "Elections": "PRESENT"
+            "events": [
+                "9/26",
+                "10/3",
+                "10/10",
+                "10/24",
+                "11/7",
+                "11/14"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "UA",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "2",
-            "": "FALSE",
-            "Total Fine": "$10.00"
+            "events": [
+                "Checkpoint 1",
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "UA",
-            "Midcourt": "UA",
-            "Court of Honor": "UA",
-            "Graduation": "UA",
-            "UA/ULA/UED": "4",
-            "Missed": "4",
-            "Total Fine": "$40.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Induction 2/17",
+                "Midcourt",
+                "Court of Honor",
+                "Graduation"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
             "Total Points": "0",
             "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "First": "Kreger",
-            "Last": " Henry",
-            "sanitized name": "kreger, henry",
-            "Fine": "$45.00"
+            "Missing out of 6": "6"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Kreger",
-            "First": " Henry",
-            "Sanitized": "kreger, henry",
             "Fine Reduction": "$0.00"
         }
     },
     "hillary.lam23@gmail.com": {
-        "name": "Lam, Hillary",
+        "name": "lam, hillary",
         "Fines": {
-            "RR": "TRUE",
-            "Final  Fine": "$20.00",
-            "Total fine before reduction": "$20.00",
-            "Brother Hood Fines": "$5.00",
-            "Rush Event Fines": "$0.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$10.00",
-            "Requirement Fines": "$5.00",
+            "Final fine": "$55.00",
+            "Brotherhood": "$15.00",
+            "Rush": "$0.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$10.00",
+            "Requirement": "$30.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "PRESENT",
-            "10/3": "UA",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "UA",
-            "11/7": "PRESENT",
-            "11/14": "UA",
-            "11/21": "UA",
-            "Notes": "3",
-            "UA": "4",
-            "": "Mehta, Tej",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$5.00",
-            "Elections": "PRESENT"
+            "events": [
+                "10/3",
+                "10/24",
+                "11/14"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "PRESENT",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "1",
-            "": "TRUE",
-            "Total Fine": "$0.00"
+            "events": [
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "UA",
-            "Midcourt": "PRESENT",
-            "Court of Honor": "PRESENT",
-            "Graduation": "PRESENT",
-            "UA/ULA/UED": "1",
-            "Missed": "1",
-            "Total Fine": "$10.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Induction 2/17"
+            ]
         },
         "Requirement Fines": {
-            "RR": "TRUE",
-            "Total Points": "5",
-            "Missing out of 9": "4",
-            "Missing out of 6": "1",
-            "First": "Lam",
-            "Last": " Hillary",
-            "sanitized name": "lam, hillary",
-            "Fine": "$5.00"
+            "Total Points": "0",
+            "Missing out of 9": "9",
+            "Missing out of 6": "6",
+            "Professional": "",
+            "Brotherhood": "1",
+            "DEI": "1",
+            "Fundraising": "0",
+            "Community Service": "1",
+            "Total": "5",
+            "": "",
+            "Cleaned Name": "o'toole, jack",
+            "What type of event was it?": "Brotherhood"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Lam",
-            "First": " Hillary",
-            "Sanitized": "lam, hillary",
             "Fine Reduction": "$0.00"
         }
     },
     "vivienlau.home@gmail.com": {
-        "name": "Lau, Vivien",
+        "name": "lau, vivien",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$5.00",
-            "Total fine before reduction": "$10.00",
-            "Brother Hood Fines": "$0.00",
-            "Rush Event Fines": "$0.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$10.00",
-            "Requirement Fines": "$0.00",
+            "Final fine": "$50.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$0.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$10.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$5.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "PRESENT",
-            "10/3": "PRESENT",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "PRESENT",
-            "11/7": "UA",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "5",
-            "UA": "3",
-            "": "Ren, Aaron",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$0.00",
-            "Elections": "PRESENT"
+            "events": [
+                "11/7"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "EA",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "1",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": [
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "PRESENT",
-            "Midcourt": "UA",
-            "Court of Honor": "PRESENT",
-            "Graduation": "PRESENT",
-            "UA/ULA/UED": "1",
-            "Missed": "1",
-            "Total Fine": "$10.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Midcourt"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
-            "Total Points": "9",
-            "Missing out of 9": "0",
-            "Missing out of 6": "0",
-            "First": "Lau",
-            "Last": " Vivien",
-            "sanitized name": "lau, vivien",
-            "Fine": "$0.00"
+            "Total Points": "0",
+            "Missing out of 9": "9",
+            "Missing out of 6": "6",
+            "Professional": "",
+            "Brotherhood": "1",
+            "DEI": "4",
+            "Fundraising": "0",
+            "Community Service": "1",
+            "Total": "9",
+            "": "",
+            "Cleaned Name": "o'toole, jack",
+            "What type of event was it?": "DEI"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "1",
-            "Last": "Lau",
-            "First": " Vivien",
-            "Sanitized": "lau, vivien",
             "Fine Reduction": "$5.00"
         }
     },
     "lazowill30@gmail.com": {
-        "name": "Lazo, William",
+        "name": "lazo, william",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$140.00",
-            "Total fine before reduction": "$140.00",
-            "Brother Hood Fines": "$20.00",
-            "Rush Event Fines": "$25.00",
-            "Checkpoint fines": "$10.00",
-            "Ritual Fines": "$40.00",
-            "Requirement Fines": "$45.00",
+            "Final fine": "$140.00",
+            "Brotherhood": "$20.00",
+            "Rush": "$25.00",
+            "Checkpoint": "$10.00",
+            "Ritual": "$40.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "UA",
-            "10/3": "UA",
-            "10/10": "UA",
-            "10/17": "UA",
-            "10/24": "UA",
-            "11/7": "UA",
-            "11/14": "UA",
-            "11/21": "UA",
-            "Notes": "0",
-            "UA": "7",
-            "": "Yao, Eric",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$20.00",
-            "Elections": "PRESENT"
+            "events": [
+                "9/26",
+                "10/3",
+                "10/10",
+                "10/17",
+                "10/24",
+                "11/7",
+                "11/14"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "UA",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "2",
-            "": "FALSE",
-            "Total Fine": "$10.00"
+            "events": [
+                "Checkpoint 1",
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "UA",
-            "Midcourt": "UA",
-            "Court of Honor": "UA",
-            "Graduation": "UA",
-            "UA/ULA/UED": "4",
-            "Missed": "4",
-            "Total Fine": "$40.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Induction 2/17",
+                "Midcourt",
+                "Court of Honor",
+                "Graduation"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
             "Total Points": "0",
             "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "First": "Lazo",
-            "Last": " William",
-            "sanitized name": "lazo, william",
-            "Fine": "$45.00"
+            "Missing out of 6": "6"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Lazo",
-            "First": " William",
-            "Sanitized": "lazo, william",
             "Fine Reduction": "$0.00"
         }
     },
     "christopherli3064@gmail.com": {
-        "name": "Li, Christopher",
+        "name": "li, christopher",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$45.00",
-            "Total fine before reduction": "$45.00",
-            "Brother Hood Fines": "$0.00",
-            "Rush Event Fines": "$0.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$0.00",
-            "Requirement Fines": "$45.00",
+            "Final fine": "$45.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$0.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$0.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "PRESENT",
-            "10/3": "PRESENT",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "PRESENT",
-            "11/7": "PRESENT",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "6",
-            "UA": "2",
-            "": "Adusumilli, Siri",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$0.00",
-            "Elections": "PRESENT"
+            "events": [
+                "10/10"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "PRESENT",
-            "Checkpoint 2": "PRESENT",
-            "Missed (out of 1 required)": "0",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": []
         },
         "Rituals": {
-            "Induction 2/17": "PRESENT",
-            "Midcourt": "PRESENT",
-            "Court of Honor": "PRESENT",
-            "Graduation": "PRESENT",
-            "UA/ULA/UED": "0",
-            "Missed": "0",
-            "Total Fine": "$0.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": []
         },
         "Requirement Fines": {
-            "RR": "FALSE",
             "Total Points": "0",
             "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "First": "Li",
-            "Last": " Christopher",
-            "sanitized name": "li, christopher",
-            "Fine": "$45.00"
+            "Missing out of 6": "6"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Li",
-            "First": " Christopher",
-            "Sanitized": "li, christopher",
             "Fine Reduction": "$0.00"
         }
     },
     "hannah227rgymnastics@gmail.com": {
-        "name": "Li, Hannah",
+        "name": "li, hannah",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$50.00",
-            "Total fine before reduction": "$50.00",
-            "Brother Hood Fines": "$0.00",
-            "Rush Event Fines": "$0.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$10.00",
-            "Requirement Fines": "$40.00",
+            "Final fine": "$55.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$0.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$10.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "PRESENT",
-            "10/3": "PRESENT",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "PRESENT",
-            "11/7": "UA",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "5",
-            "UA": "3",
-            "": "Beato, Julia",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$0.00",
-            "Elections": "PRESENT"
+            "events": [
+                "10/10",
+                "11/7"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "PRESENT",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "1",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": [
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "UA",
-            "Midcourt": "PRESENT",
-            "Court of Honor": "PRESENT",
-            "Graduation": "PRESENT",
-            "UA/ULA/UED": "1",
-            "Missed": "1",
-            "Total Fine": "$10.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Induction 2/17"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
-            "Total Points": "1",
-            "Missing out of 9": "8",
-            "Missing out of 6": "5",
-            "First": "Li",
-            "Last": " Hannah",
-            "sanitized name": "li, hannah",
-            "Fine": "$40.00"
+            "Total Points": "0",
+            "Missing out of 9": "9",
+            "Missing out of 6": "6",
+            "Professional": "",
+            "Brotherhood": "0",
+            "DEI": "1",
+            "Fundraising": "0",
+            "Community Service": "0",
+            "Total": "1",
+            "": "",
+            "Cleaned Name": "dang, diem",
+            "What type of event was it?": "Fundraising"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Li",
-            "First": " Hannah",
-            "Sanitized": "li, hannah",
             "Fine Reduction": "$0.00"
         }
     },
     "mli12319@terpmail.umd.edu": {
-        "name": "Li, Minshan",
+        "name": "li, minshan",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$70.00",
-            "Total fine before reduction": "$70.00",
-            "Brother Hood Fines": "$5.00",
-            "Rush Event Fines": "$0.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$20.00",
-            "Requirement Fines": "$45.00",
+            "Final fine": "$70.00",
+            "Brotherhood": "$5.00",
+            "Rush": "$0.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$20.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Rituals": {
-            "Induction 2/17": "PRESENT",
-            "Midcourt": "UA",
-            "Court of Honor": "PRESENT",
-            "Graduation": "UA",
-            "UA/ULA/UED": "2",
-            "Missed": "2",
-            "Total Fine": "$20.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Midcourt",
+                "Graduation"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
             "Total Points": "0",
             "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "First": "Li",
-            "Last": " Minshan",
-            "sanitized name": "li, minshan",
-            "Fine": "$45.00"
+            "Missing out of 6": "6"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Li",
-            "First": " Minshan",
-            "Sanitized": "li, minshan",
             "Fine Reduction": "$0.00"
         }
     },
     "amarqu9@terpmail.umd.edu": {
-        "name": "Marquez, Adilene",
+        "name": "marquez, adilene",
         "Fines": {
-            "RR": "TRUE",
-            "Final  Fine": "$40.00",
-            "Total fine before reduction": "$40.00",
-            "Brother Hood Fines": "$5.00",
-            "Rush Event Fines": "$5.00",
-            "Checkpoint fines": "$10.00",
-            "Ritual Fines": "$0.00",
-            "Requirement Fines": "$20.00",
+            "Final fine": "$60.00",
+            "Brotherhood": "$15.00",
+            "Rush": "$5.00",
+            "Checkpoint": "$10.00",
+            "Ritual": "$0.00",
+            "Requirement": "$30.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "UA",
-            "10/3": "PRESENT",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "PRESENT",
-            "11/7": "UA",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "4",
-            "UA": "4",
-            "": "Kim, Andrew (2)",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$5.00",
-            "Elections": "PRESENT"
+            "events": [
+                "9/26",
+                "10/10",
+                "11/7"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "UA",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "2",
-            "": "TRUE",
-            "Total Fine": "$10.00"
+            "events": [
+                "Checkpoint 1",
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "PRESENT",
-            "Midcourt": "EA",
-            "Court of Honor": "PRESENT",
-            "Graduation": "EA",
-            "UA/ULA/UED": "0",
-            "Missed": "0",
-            "Total Fine": "$0.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": []
         },
         "Requirement Fines": {
-            "RR": "TRUE",
-            "Total Points": "2",
-            "Missing out of 9": "7",
-            "Missing out of 6": "4",
-            "First": "Marquez",
-            "Last": " Adilene",
-            "sanitized name": "marquez, adilene",
-            "Fine": "$20.00"
+            "Total Points": "0",
+            "Missing out of 9": "9",
+            "Missing out of 6": "6",
+            "Professional": "DEI",
+            "Brotherhood": "2",
+            "DEI": "1",
+            "Fundraising": "1",
+            "Community Service": "0",
+            "Total": "4",
+            "": "",
+            "Cleaned Name": "mukherjee, abhinav",
+            "What type of event was it?": "Professional"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Marquez",
-            "First": " Adilene",
-            "Sanitized": "marquez, adilene",
             "Fine Reduction": "$0.00"
         }
     },
     "mathurmudit03@gmail.com": {
-        "name": "Mathur, Mudit",
+        "name": "mathur, mudit",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$5.00",
-            "Total fine before reduction": "$20.00",
-            "Brother Hood Fines": "$0.00",
-            "Rush Event Fines": "$0.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$0.00",
-            "Requirement Fines": "$20.00",
+            "Final fine": "$30.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$0.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$0.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$15.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "PRESENT",
-            "10/3": "PRESENT",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "PRESENT",
-            "11/7": "UA",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "5",
-            "UA": "3",
-            "": "Luo, Angela",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$0.00",
-            "Elections": "PRESENT"
+            "events": [
+                "10/10",
+                "11/7"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "PRESENT",
-            "Checkpoint 2": "PRESENT",
-            "Missed (out of 1 required)": "0",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": []
         },
         "Rituals": {
-            "Induction 2/17": "PRESENT",
-            "Midcourt": "PRESENT",
-            "Court of Honor": "PRESENT",
-            "Graduation": "PRESENT",
-            "UA/ULA/UED": "0",
-            "Missed": "0",
-            "Total Fine": "$0.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": []
         },
         "Requirement Fines": {
-            "RR": "FALSE",
-            "Total Points": "5",
-            "Missing out of 9": "4",
-            "Missing out of 6": "1",
-            "First": "Mathur",
-            "Last": " Mudit",
-            "sanitized name": "mathur, mudit",
-            "Fine": "$20.00"
+            "Total Points": "0",
+            "Missing out of 9": "9",
+            "Missing out of 6": "6",
+            "Professional": "",
+            "Brotherhood": "0",
+            "DEI": "2",
+            "Fundraising": "0",
+            "Community Service": "0",
+            "Total": "5",
+            "": "",
+            "Cleaned Name": "chen, eileen",
+            "What type of event was it?": "DEI"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "3",
-            "Last": "Mathur",
-            "First": " Mudit",
-            "Sanitized": "mathur, mudit",
             "Fine Reduction": "$15.00"
         }
     },
     "amavani@terpmail.umd.edu": {
-        "name": "Mavani, Anjolie",
+        "name": "mavani, anjolie",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$45.00",
-            "Total fine before reduction": "$45.00",
-            "Brother Hood Fines": "$0.00",
-            "Rush Event Fines": "$10.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$0.00",
-            "Requirement Fines": "$35.00",
+            "Final fine": "$55.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$10.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$0.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "EA",
-            "10/3": "EA",
-            "10/10": "EA",
-            "10/17": "PRESENT",
-            "10/24": "UA",
-            "11/7": "EA",
-            "11/14": "EA",
-            "11/21": "UA",
-            "Notes": "5",
-            "UA": "2",
-            "": "Mann, Nikhail",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$0.00",
-            "Elections": "PRESENT"
+            "events": [
+                "10/24"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "UA",
-            "Checkpoint 2": "PRESENT",
-            "Missed (out of 1 required)": "1",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": [
+                "Checkpoint 1"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "EA",
-            "Midcourt": "PRESENT",
-            "Court of Honor": "PRESENT",
-            "Graduation": "PRESENT",
-            "UA/ULA/UED": "0",
-            "Missed": "0",
-            "Total Fine": "$0.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": []
         },
         "Requirement Fines": {
-            "RR": "FALSE",
-            "Total Points": "2",
-            "Missing out of 9": "7",
-            "Missing out of 6": "4",
-            "First": "Mavani",
-            "Last": " Anjolie",
-            "sanitized name": "mavani, anjolie",
-            "Fine": "$35.00"
+            "Total Points": "0",
+            "Missing out of 9": "9",
+            "Missing out of 6": "6",
+            "Professional": "",
+            "Brotherhood": "0",
+            "DEI": "0",
+            "Fundraising": "1",
+            "Community Service": "0",
+            "Total": "2",
+            "": "",
+            "Cleaned Name": "wang, jiayi",
+            "What type of event was it?": "Fundraising"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Mavani",
-            "First": " Anjolie",
-            "Sanitized": "mavani, anjolie",
             "Fine Reduction": "$0.00"
         }
     },
     "jmcfadde@terpmail.umd.edu": {
-        "name": "McFadden, James",
+        "name": "mcfadden, james",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$80.00",
-            "Total fine before reduction": "$80.00",
-            "Brother Hood Fines": "$5.00",
-            "Rush Event Fines": "$10.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$20.00",
-            "Requirement Fines": "$45.00",
+            "Final fine": "$75.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$10.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$20.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "PRESENT",
-            "10/3": "PRESENT",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "UA",
-            "11/7": "UA",
-            "11/14": "UA",
-            "11/21": "UA",
-            "Notes": "3",
-            "UA": "4",
-            "": "Parikh, Juhi",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$5.00",
-            "Elections": "UA"
+            "events": [
+                "10/24",
+                "11/7",
+                "11/14"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "PRESENT",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "1",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": [
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "PRESENT",
-            "Midcourt": "PRESENT",
-            "Court of Honor": "UA",
-            "Graduation": "UA",
-            "UA/ULA/UED": "2",
-            "Missed": "2",
-            "Total Fine": "$20.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Court of Honor",
+                "Graduation"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
             "Total Points": "0",
             "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "First": "McFadden",
-            "Last": " James",
-            "sanitized name": "mcfadden, james",
-            "Fine": "$45.00"
+            "Missing out of 6": "6"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "McFadden",
-            "First": " James",
-            "Sanitized": "mcfadden, james",
             "Fine Reduction": "$0.00"
         }
     },
     "rowanmohan@gmail.com": {
-        "name": "Mohan, Rowan",
+        "name": "mohan, rowan",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$45.00",
-            "Total fine before reduction": "$45.00",
-            "Brother Hood Fines": "$0.00",
-            "Rush Event Fines": "$0.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$0.00",
-            "Requirement Fines": "$45.00",
+            "Final fine": "$45.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$0.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$0.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "EA",
-            "9/26": "PRESENT",
-            "10/3": "EA",
-            "10/10": "EA",
-            "10/17": "EA",
-            "10/24": "EA",
-            "11/7": "EA",
-            "11/14": "EA",
-            "11/21": "EA",
-            "Notes": "7",
-            "UA": "0",
-            "": "Penmatcha, Ankit",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$0.00",
-            "Elections": "PRESENT"
+            "events": []
         },
         "Checkpoints": {
-            "Checkpoint 1": "UA",
-            "Checkpoint 2": "EA",
-            "Missed (out of 1 required)": "1",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": [
+                "Checkpoint 1"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "EA",
-            "Midcourt": "EA",
-            "Court of Honor": "PRESENT",
-            "Graduation": "PRESENT",
-            "UA/ULA/UED": "0",
-            "Missed": "0",
-            "Total Fine": "$0.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": []
         },
         "Requirement Fines": {
-            "RR": "FALSE",
             "Total Points": "0",
             "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "First": "Mohan",
-            "Last": " Rowan",
-            "sanitized name": "mohan, rowan",
-            "Fine": "$45.00"
+            "Missing out of 6": "6"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Mohan",
-            "First": " Rowan",
-            "Sanitized": "mohan, rowan",
             "Fine Reduction": "$0.00"
         }
     },
     "cmoon3611@gmail.com": {
-        "name": "Moon, Chris",
+        "name": "moon, chris",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$0.00",
-            "Total fine before reduction": "$0.00",
-            "Brother Hood Fines": "$0.00",
-            "Rush Event Fines": "$0.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$0.00",
-            "Requirement Fines": "$0.00",
+            "Final fine": "$45.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$0.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$0.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "PRESENT",
-            "10/3": "PRESENT",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "PRESENT",
-            "11/7": "PRESENT",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "6",
-            "UA": "2",
-            "": "Samuel, Daniel",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$0.00",
-            "Elections": "PRESENT"
+            "events": []
         },
         "Checkpoints": {
-            "Checkpoint 1": "PRESENT",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "1",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": [
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "PRESENT",
-            "Midcourt": "PRESENT",
-            "Court of Honor": "PRESENT",
-            "Graduation": "PRESENT",
-            "UA/ULA/UED": "0",
-            "Missed": "0",
-            "Total Fine": "$0.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": []
         },
         "Requirement Fines": {
-            "RR": "FALSE",
-            "Total Points": "10",
-            "Missing out of 9": "0",
-            "Missing out of 6": "0",
-            "First": "Moon",
-            "Last": " Chris",
-            "sanitized name": "moon, chris",
-            "Fine": "$0.00"
+            "Total Points": "0",
+            "Missing out of 9": "9",
+            "Missing out of 6": "6",
+            "Professional": "",
+            "Brotherhood": "2",
+            "DEI": "2",
+            "Fundraising": "2",
+            "Community Service": "2",
+            "Total": "10",
+            "": "",
+            "Cleaned Name": "schwartz, megan",
+            "What type of event was it?": "Professional"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Moon",
-            "First": " Chris",
-            "Sanitized": "moon, chris",
             "Fine Reduction": "$0.00"
         }
     },
     "amukher1@terpmail.umd.edu": {
-        "name": "Mukherjee, Abhinav",
+        "name": "mukherjee, abhinav",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$20.00",
-            "Total fine before reduction": "$35.00",
-            "Brother Hood Fines": "$0.00",
-            "Rush Event Fines": "$5.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$0.00",
-            "Requirement Fines": "$30.00",
+            "Final fine": "$35.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$5.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$0.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$15.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "PRESENT",
-            "10/3": "PRESENT",
-            "10/10": "EA",
-            "10/17": "PRESENT",
-            "10/24": "PRESENT",
-            "11/7": "PRESENT",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "7",
-            "UA": "1",
-            "": "Venkat, Ritvik",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$0.00",
-            "Elections": "PRESENT"
+            "events": []
         },
         "Checkpoints": {
-            "Checkpoint 1": "EA",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "1",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": [
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "EA",
-            "Midcourt": "PRESENT",
-            "Court of Honor": "PRESENT",
-            "Graduation": "PRESENT",
-            "UA/ULA/UED": "0",
-            "Missed": "0",
-            "Total Fine": "$0.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": []
         },
         "Requirement Fines": {
-            "RR": "FALSE",
-            "Total Points": "3",
-            "Missing out of 9": "6",
-            "Missing out of 6": "3",
-            "First": "Mukherjee",
-            "Last": " Abhinav",
-            "sanitized name": "mukherjee, abhinav",
-            "Fine": "$30.00"
+            "Total Points": "0",
+            "Missing out of 9": "9",
+            "Missing out of 6": "6",
+            "Professional": "Brotherhood",
+            "Brotherhood": "0",
+            "DEI": "1",
+            "Fundraising": "0",
+            "Community Service": "0",
+            "Total": "3",
+            "": "",
+            "Cleaned Name": "mukherjee, abhinav",
+            "What type of event was it?": "DEI"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "3",
-            "Last": "Mukherjee",
-            "First": " Abhinav",
-            "Sanitized": "mukherjee, abhinav",
             "Fine Reduction": "$15.00"
         }
     },
     "sareet.nayak@gmail.com": {
-        "name": "Nayak, Sareet",
+        "name": "nayak, sareet",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$0.00",
-            "Total fine before reduction": "$10.00",
-            "Brother Hood Fines": "$0.00",
-            "Rush Event Fines": "$0.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$0.00",
-            "Requirement Fines": "$10.00",
+            "Final fine": "$0.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$0.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$0.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$20.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "EA",
-            "9/26": "EA",
-            "10/3": "PRESENT",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "PRESENT",
-            "11/7": "PRESENT",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "7",
-            "UA": "1",
-            "": "Vyapuri, Laticia",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$0.00",
-            "Elections": "PRESENT"
+            "events": []
         },
         "Checkpoints": {
-            "Checkpoint 1": "UA",
-            "Checkpoint 2": "PRESENT",
-            "Missed (out of 1 required)": "1",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": [
+                "Checkpoint 1"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "PRESENT",
-            "Midcourt": "PRESENT",
-            "Court of Honor": "PRESENT",
-            "Graduation": "PRESENT",
-            "UA/ULA/UED": "0",
-            "Missed": "0",
-            "Total Fine": "$0.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": []
         },
         "Requirement Fines": {
-            "RR": "FALSE",
-            "Total Points": "7",
-            "Missing out of 9": "2",
-            "Missing out of 6": "0",
-            "First": "Nayak",
-            "Last": " Sareet",
-            "sanitized name": "nayak, sareet",
-            "Fine": "$10.00"
+            "Total Points": "0",
+            "Missing out of 9": "9",
+            "Missing out of 6": "6",
+            "Professional": "",
+            "Brotherhood": "1",
+            "DEI": "1",
+            "Fundraising": "2",
+            "Community Service": "1",
+            "Total": "8",
+            "": "",
+            "Cleaned Name": "schwartz, megan",
+            "What type of event was it?": "DEI"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "4",
-            "Last": "Nayak",
-            "First": " Sareet",
-            "Sanitized": "nayak, sareet",
             "Fine Reduction": "$20.00"
         }
     },
     "dariusleenejad@gmail.com": {
-        "name": "Nejad, Darius",
+        "name": "nejad, darius",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$0.00",
-            "Total fine before reduction": "$40.00",
-            "Brother Hood Fines": "$5.00",
-            "Rush Event Fines": "$0.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$10.00",
-            "Requirement Fines": "$25.00",
+            "Final fine": "$15.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$0.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$10.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$40.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "PRESENT",
-            "10/3": "UA",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "UA",
-            "11/7": "PRESENT",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "4",
-            "UA": "4",
-            "": "Weatherhead, Ben",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$5.00",
-            "Elections": "PRESENT"
+            "events": [
+                "10/3",
+                "10/10",
+                "10/24"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "UA",
-            "Checkpoint 2": "PRESENT",
-            "Missed (out of 1 required)": "1",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": [
+                "Checkpoint 1"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "PRESENT",
-            "Midcourt": "UA",
-            "Court of Honor": "PRESENT",
-            "Graduation": "EA",
-            "UA/ULA/UED": "1",
-            "Missed": "1",
-            "Total Fine": "$10.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Midcourt"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
-            "Total Points": "4",
-            "Missing out of 9": "5",
-            "Missing out of 6": "2",
-            "First": "Nejad",
-            "Last": " Darius",
-            "sanitized name": "nejad, darius",
-            "Fine": "$25.00"
+            "Total Points": "0",
+            "Missing out of 9": "9",
+            "Missing out of 6": "6",
+            "Professional": "",
+            "Brotherhood": "1",
+            "DEI": "2",
+            "Fundraising": "0",
+            "Community Service": "0",
+            "Total": "4",
+            "": "",
+            "Cleaned Name": "wang, jiayi",
+            "What type of event was it?": "DEI"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "8",
-            "Last": "Nejad",
-            "First": " Darius",
-            "Sanitized": "nejad, darius",
             "Fine Reduction": "$40.00"
         }
     },
     "jhotoole@terpmail.umd.edu": {
-        "name": "O'Toole, Jack",
+        "name": "o'toole, jack",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$60.00",
-            "Total fine before reduction": "$60.00",
-            "Brother Hood Fines": "$10.00",
-            "Rush Event Fines": "$5.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$0.00",
-            "Requirement Fines": "$45.00",
+            "Final fine": "$50.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$5.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$0.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "PRESENT",
-            "10/3": "UA",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "UA",
-            "11/7": "UA",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "3",
-            "UA": "5",
-            "": "Hwang, Weslee",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$10.00",
-            "Elections": "UA"
+            "events": [
+                "10/3",
+                "10/24",
+                "11/7"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "PRESENT",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "1",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": [
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "EA",
-            "Midcourt": "PRESENT",
-            "Court of Honor": "PRESENT",
-            "Graduation": "EA",
-            "UA/ULA/UED": "0",
-            "Missed": "0",
-            "Total Fine": "$0.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": []
         },
         "Requirement Fines": {
-            "RR": "FALSE",
             "Total Points": "0",
             "Missing out of 9": "9",
             "Missing out of 6": "6",
-            "First": "O'Toole",
-            "Last": " Jack",
-            "sanitized name": "o'toole, jack",
-            "Fine": "$45.00"
+            "Professional": "",
+            "Brotherhood": "2",
+            "DEI": "2",
+            "Fundraising": "0",
+            "Community Service": "0",
+            "Total": "5",
+            "": "",
+            "Cleaned Name": "dang, diem",
+            "What type of event was it?": "Professional"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "O'Toole",
-            "First": " Jack",
-            "Sanitized": "o'toole, jack",
             "Fine Reduction": "$0.00"
         }
     },
     "jognjano@terpmail.umd.edu": {
-        "name": "Ognjanovska, Jana",
+        "name": "ognjanovska, jana",
         "Fines": {
-            "RR": "TRUE",
-            "Final  Fine": "$30.00",
-            "Total fine before reduction": "$30.00",
-            "Brother Hood Fines": "$0.00",
-            "Rush Event Fines": "$10.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$20.00",
-            "Requirement Fines": "$0.00",
+            "Final fine": "$60.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$10.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$20.00",
+            "Requirement": "$30.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "EA",
-            "9/26": "EA",
-            "10/3": "EA",
-            "10/10": "EA",
-            "10/17": "EA",
-            "10/24": "EA",
-            "11/7": "EA",
-            "11/14": "EA",
-            "11/21": "EA",
-            "Notes": "7",
-            "UA": "0",
-            "": "Kandamath, Vyshnav",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$0.00",
-            "Elections": "PRESENT"
+            "events": []
         },
         "Checkpoints": {
-            "Checkpoint 1": "UA",
-            "Checkpoint 2": "EA",
-            "Missed (out of 1 required)": "1",
-            "": "TRUE",
-            "Total Fine": "$0.00"
+            "events": [
+                "Checkpoint 1"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "EA",
-            "Midcourt": "PRESENT",
-            "Court of Honor": "UA",
-            "Graduation": "UA",
-            "UA/ULA/UED": "2",
-            "Missed": "2",
-            "Total Fine": "$20.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Court of Honor",
+                "Graduation"
+            ]
         },
         "Requirement Fines": {
-            "RR": "TRUE",
-            "Total Points": "7",
-            "Missing out of 9": "2",
-            "Missing out of 6": "0",
-            "First": "Ognjanovska",
-            "Last": " Jana",
-            "sanitized name": "ognjanovska, jana",
-            "Fine": "$0.00"
+            "Total Points": "0",
+            "Missing out of 9": "9",
+            "Missing out of 6": "6",
+            "Professional": "",
+            "Brotherhood": "1",
+            "DEI": "1",
+            "Fundraising": "1",
+            "Community Service": "2",
+            "Total": "7",
+            "": "",
+            "Cleaned Name": "shroff, marvi",
+            "What type of event was it?": "Professional"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Ognjanovska",
-            "First": " Jana",
-            "Sanitized": "ognjanovska, jana",
             "Fine Reduction": "$0.00"
         }
     },
     "ajortiz9@terpmail.umd.edu": {
-        "name": "Ortiz, Adam",
+        "name": "ortiz, adam",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$35.00",
-            "Total fine before reduction": "$35.00",
-            "Brother Hood Fines": "$0.00",
-            "Rush Event Fines": "$0.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$10.00",
-            "Requirement Fines": "$25.00",
+            "Final fine": "$55.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$0.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$10.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "PRESENT",
-            "10/3": "UA",
-            "10/10": "PRESENT",
-            "10/17": "PRESENT",
-            "10/24": "UA",
-            "11/7": "PRESENT",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "5",
-            "UA": "3",
-            "": "Matar, Suhaib (Jordan)",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$0.00",
-            "Elections": "PRESENT"
+            "events": [
+                "10/3",
+                "10/24"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "UA",
-            "Checkpoint 2": "PRESENT",
-            "Missed (out of 1 required)": "1",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": [
+                "Checkpoint 1"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "UA",
-            "Midcourt": "PRESENT",
-            "Court of Honor": "PRESENT",
-            "Graduation": "PRESENT",
-            "UA/ULA/UED": "1",
-            "Missed": "1",
-            "Total Fine": "$10.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Induction 2/17"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
-            "Total Points": "4",
-            "Missing out of 9": "5",
-            "Missing out of 6": "2",
-            "First": "Ortiz",
-            "Last": " Adam",
-            "sanitized name": "ortiz, adam",
-            "Fine": "$25.00"
+            "Total Points": "0",
+            "Missing out of 9": "9",
+            "Missing out of 6": "6",
+            "Professional": "",
+            "Brotherhood": "0",
+            "DEI": "1",
+            "Fundraising": "1",
+            "Community Service": "0",
+            "Total": "4",
+            "": "",
+            "Cleaned Name": "yuan, meilin",
+            "What type of event was it?": "DEI"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Ortiz",
-            "First": " Adam",
-            "Sanitized": "ortiz, adam",
             "Fine Reduction": "$0.00"
         }
     },
     "megznj@terpmail.umd.edu": {
-        "name": "Padmanabhan, Meghana",
+        "name": "padmanabhan, meghana",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$50.00",
-            "Total fine before reduction": "$50.00",
-            "Brother Hood Fines": "$0.00",
-            "Rush Event Fines": "$5.00",
-            "Checkpoint fines": "$10.00",
-            "Ritual Fines": "$10.00",
-            "Requirement Fines": "$25.00",
+            "Final fine": "$70.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$5.00",
+            "Checkpoint": "$10.00",
+            "Ritual": "$10.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "PRESENT",
-            "10/3": "PRESENT",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "PRESENT",
-            "11/7": "PRESENT",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "6",
-            "UA": "2",
-            "": "Bennett, Eric",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$0.00",
-            "Elections": "UA"
+            "events": [
+                "10/10"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "UA",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "2",
-            "": "FALSE",
-            "Total Fine": "$10.00"
+            "events": [
+                "Checkpoint 1",
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "EA",
-            "Midcourt": "UA",
-            "Court of Honor": "PRESENT",
-            "Graduation": "PRESENT",
-            "UA/ULA/UED": "1",
-            "Missed": "1",
-            "Total Fine": "$10.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Midcourt"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
-            "Total Points": "4",
-            "Missing out of 9": "5",
-            "Missing out of 6": "2",
-            "First": "Padmanabhan",
-            "Last": " Meghana",
-            "sanitized name": "padmanabhan, meghana",
-            "Fine": "$25.00"
+            "Total Points": "0",
+            "Missing out of 9": "9",
+            "Missing out of 6": "6",
+            "Professional": "",
+            "Brotherhood": "2",
+            "DEI": "0",
+            "Fundraising": "0",
+            "Community Service": "0",
+            "Total": "4",
+            "": "",
+            "Cleaned Name": "chiang, jennifer",
+            "What type of event was it?": "DEI"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Padmanabhan",
-            "First": " Meghana",
-            "Sanitized": "padmanabhan, meghana",
             "Fine Reduction": "$0.00"
         }
     },
     "avyaypotarlanka@gmail.com": {
-        "name": "Potarlanka, Avyay",
+        "name": "potarlanka, avyay",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$0.00",
-            "Total fine before reduction": "$30.00",
-            "Brother Hood Fines": "$0.00",
-            "Rush Event Fines": "$0.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$10.00",
-            "Requirement Fines": "$20.00",
+            "Final fine": "$0.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$0.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$10.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$60.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "PRESENT",
-            "10/3": "PRESENT",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "UA",
-            "11/7": "PRESENT",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "5",
-            "UA": "3",
-            "": "Chen, Eileen",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$0.00",
-            "Elections": "PRESENT"
+            "events": [
+                "10/10",
+                "10/24"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "PRESENT",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "1",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": [
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "PRESENT",
-            "Midcourt": "PRESENT",
-            "Court of Honor": "PRESENT",
-            "Graduation": "UA",
-            "UA/ULA/UED": "1",
-            "Missed": "1",
-            "Total Fine": "$10.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Graduation"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
-            "Total Points": "5",
-            "Missing out of 9": "4",
-            "Missing out of 6": "1",
-            "First": "Potarlanka",
-            "Last": " Avyay",
-            "sanitized name": "potarlanka, avyay",
-            "Fine": "$20.00"
+            "Total Points": "0",
+            "Missing out of 9": "9",
+            "Missing out of 6": "6",
+            "Professional": "",
+            "Brotherhood": "3",
+            "DEI": "0",
+            "Fundraising": "0",
+            "Community Service": "0",
+            "Total": "5",
+            "": "",
+            "Cleaned Name": "marquez, adilene",
+            "What type of event was it?": "Fundraising"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "12",
-            "Last": "Potarlanka",
-            "First": " Avyay",
-            "Sanitized": "potarlanka, avyay",
             "Fine Reduction": "$60.00"
         }
     },
     "sp0822@terpmail.umd.edu": {
-        "name": "Pothagoni, Shruti",
+        "name": "pothagoni, shruti",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$65.00",
-            "Total fine before reduction": "$65.00",
-            "Brother Hood Fines": "$10.00",
-            "Rush Event Fines": "$5.00",
-            "Checkpoint fines": "$10.00",
-            "Ritual Fines": "$20.00",
-            "Requirement Fines": "$20.00",
+            "Final fine": "$85.00",
+            "Brotherhood": "$5.00",
+            "Rush": "$5.00",
+            "Checkpoint": "$10.00",
+            "Ritual": "$20.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "PRESENT",
-            "10/3": "UA",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "UA",
-            "11/7": "UA",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "3",
-            "UA": "5",
-            "": "Grill, Hudson",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$10.00",
-            "Elections": "PRESENT"
+            "events": [
+                "10/3",
+                "10/10",
+                "10/24",
+                "11/7"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "UA",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "2",
-            "": "FALSE",
-            "Total Fine": "$10.00"
+            "events": [
+                "Checkpoint 1",
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "UA",
-            "Midcourt": "PRESENT",
-            "Court of Honor": "PRESENT",
-            "Graduation": "UA",
-            "UA/ULA/UED": "2",
-            "Missed": "2",
-            "Total Fine": "$20.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Induction 2/17",
+                "Graduation"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
-            "Total Points": "5",
-            "Missing out of 9": "4",
-            "Missing out of 6": "1",
-            "First": "Pothagoni",
-            "Last": " Shruti",
-            "sanitized name": "pothagoni, shruti",
-            "Fine": "$20.00"
+            "Total Points": "0",
+            "Missing out of 9": "9",
+            "Missing out of 6": "6",
+            "Professional": "",
+            "Brotherhood": "1",
+            "DEI": "0",
+            "Fundraising": "1",
+            "Community Service": "1",
+            "Total": "5",
+            "": "",
+            "Cleaned Name": "li, hannah",
+            "What type of event was it?": "DEI"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Pothagoni",
-            "First": " Shruti",
-            "Sanitized": "pothagoni, shruti",
             "Fine Reduction": "$0.00"
         }
     },
     "meganschwartz51@gmail.com": {
-        "name": "Schwartz, Megan",
+        "name": "schwartz, megan",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$20.00",
-            "Total fine before reduction": "$25.00",
-            "Brother Hood Fines": "$5.00",
-            "Rush Event Fines": "$5.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$0.00",
-            "Requirement Fines": "$15.00",
+            "Final fine": "$45.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$5.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$0.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$5.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "PRESENT",
-            "10/3": "UA",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "UA",
-            "11/7": "EA",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "4",
-            "UA": "4",
-            "": "Gudwani, Rohan",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$5.00",
-            "Elections": "PRESENT"
+            "events": [
+                "10/3",
+                "10/10",
+                "10/24"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "UA",
-            "Checkpoint 2": "PRESENT",
-            "Missed (out of 1 required)": "1",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": [
+                "Checkpoint 1"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "PRESENT",
-            "Midcourt": "EA",
-            "Court of Honor": "PRESENT",
-            "Graduation": "PRESENT",
-            "UA/ULA/UED": "0",
-            "Missed": "0",
-            "Total Fine": "$0.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": []
         },
         "Requirement Fines": {
-            "RR": "FALSE",
-            "Total Points": "6",
-            "Missing out of 9": "3",
-            "Missing out of 6": "0",
-            "First": "Schwartz",
-            "Last": " Megan",
-            "sanitized name": "schwartz, megan",
-            "Fine": "$15.00"
+            "Total Points": "0",
+            "Missing out of 9": "9",
+            "Missing out of 6": "6",
+            "Professional": "",
+            "Brotherhood": "1",
+            "DEI": "1",
+            "Fundraising": "0",
+            "Community Service": "3",
+            "Total": "6",
+            "": "",
+            "Cleaned Name": "dang, diem",
+            "What type of event was it?": "Brotherhood"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "1",
-            "Last": "Schwartz",
-            "First": " Megan",
-            "Sanitized": "schwartz, megan",
             "Fine Reduction": "$5.00"
         }
     },
     "mshroff1@terpmail.umd.edu": {
-        "name": "Shroff, Marvi",
+        "name": "shroff, marvi",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$17.50",
-            "Total fine before reduction": "$35.00",
-            "Brother Hood Fines": "$10.00",
-            "Rush Event Fines": "$0.00",
-            "Checkpoint fines": "$10.00",
-            "Ritual Fines": "$10.00",
-            "Requirement Fines": "$5.00",
+            "Final fine": "$57.50",
+            "Brotherhood": "$10.00",
+            "Rush": "$0.00",
+            "Checkpoint": "$10.00",
+            "Ritual": "$10.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$17.50"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "UA",
-            "10/3": "UA",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "PRESENT",
-            "11/7": "UA",
-            "11/14": "UA",
-            "11/21": "UA",
-            "Notes": "2",
-            "UA": "5",
-            "": "Herman, Jimmy",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$10.00",
-            "Elections": "PRESENT"
+            "events": [
+                "9/26",
+                "10/3",
+                "10/10",
+                "11/7",
+                "11/14"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "UA",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "2",
-            "": "FALSE",
-            "Total Fine": "$10.00"
+            "events": [
+                "Checkpoint 1",
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "PRESENT",
-            "Midcourt": "PRESENT",
-            "Court of Honor": "PRESENT",
-            "Graduation": "UA",
-            "UA/ULA/UED": "1",
-            "Missed": "1",
-            "Total Fine": "$10.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Graduation"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
-            "Total Points": "8",
-            "Missing out of 9": "1",
-            "Missing out of 6": "0",
-            "First": "Shroff",
-            "Last": " Marvi",
-            "sanitized name": "shroff, marvi",
-            "Fine": "$5.00"
+            "Total Points": "0",
+            "Missing out of 9": "9",
+            "Missing out of 6": "6",
+            "Professional": "",
+            "Brotherhood": "2",
+            "DEI": "1",
+            "Fundraising": "1",
+            "Community Service": "2",
+            "Total": "8",
+            "": "",
+            "Cleaned Name": "dang, diem",
+            "What type of event was it?": "Professional"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "3.5",
-            "Last": "Shroff",
-            "First": " Marvi",
-            "Sanitized": "shroff, marvi",
             "Fine Reduction": "$17.50"
         }
     },
     "ssims12@terpmail.umd.edu": {
-        "name": "Sims, Summer",
+        "name": "sims, summer",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$45.00",
-            "Total fine before reduction": "$45.00",
-            "Brother Hood Fines": "$0.00",
-            "Rush Event Fines": "$5.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$0.00",
-            "Requirement Fines": "$40.00",
+            "Final fine": "$50.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$5.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$0.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "PRESENT",
-            "10/3": "PRESENT",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "PRESENT",
-            "11/7": "PRESENT",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "6",
-            "UA": "2",
-            "": "Khan, Yusra",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$0.00",
-            "Elections": "PRESENT"
+            "events": []
         },
         "Checkpoints": {
-            "Checkpoint 1": "PRESENT",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "1",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": [
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "PRESENT",
-            "Midcourt": "PRESENT",
-            "Court of Honor": "PRESENT",
-            "Graduation": "PRESENT",
-            "UA/ULA/UED": "0",
-            "Missed": "0",
-            "Total Fine": "$0.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": []
         },
         "Requirement Fines": {
-            "RR": "FALSE",
-            "Total Points": "1",
-            "Missing out of 9": "8",
-            "Missing out of 6": "5",
-            "First": "Sims",
-            "Last": " Summer",
-            "sanitized name": "sims, summer",
-            "Fine": "$40.00"
+            "Total Points": "0",
+            "Missing out of 9": "9",
+            "Missing out of 6": "6",
+            "Professional": "",
+            "Brotherhood": "0",
+            "DEI": "1",
+            "Fundraising": "0",
+            "Community Service": "0",
+            "Total": "2",
+            "": "",
+            "Cleaned Name": "o'toole, jack",
+            "What type of event was it?": "DEI"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Sims",
-            "First": " Summer",
-            "Sanitized": "sims, summer",
             "Fine Reduction": "$0.00"
         }
     },
     "theanmolsingh101@gmail.com": {
-        "name": "Singh, Anmol",
+        "name": "singh, anmol",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$60.00",
-            "Total fine before reduction": "$60.00",
-            "Brother Hood Fines": "$5.00",
-            "Rush Event Fines": "$0.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$10.00",
-            "Requirement Fines": "$45.00",
+            "Final fine": "$55.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$0.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$10.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "PRESENT",
-            "10/3": "UA",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "UA",
-            "11/7": "PRESENT",
-            "11/14": "EA",
-            "11/21": "UA",
-            "Notes": "3",
-            "UA": "4",
-            "": "Li, Hannah",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$5.00",
-            "Elections": "PRESENT"
+            "events": [
+                "10/3",
+                "10/24"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "PRESENT",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "1",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": [
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "EA",
-            "Midcourt": "UA",
-            "Court of Honor": "PRESENT",
-            "Graduation": "EA",
-            "UA/ULA/UED": "1",
-            "Missed": "1",
-            "Total Fine": "$10.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Midcourt"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
             "Total Points": "0",
             "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "First": "Singh",
-            "Last": " Anmol",
-            "sanitized name": "singh, anmol",
-            "Fine": "$45.00"
+            "Missing out of 6": "6"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Singh",
-            "First": " Anmol",
-            "Sanitized": "singh, anmol",
             "Fine Reduction": "$0.00"
         }
     },
     "arushi12singh@gmail.com": {
-        "name": "Singh, Arushi",
+        "name": "singh, arushi",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$105.00",
-            "Total fine before reduction": "$105.00",
-            "Brother Hood Fines": "$10.00",
-            "Rush Event Fines": "$10.00",
-            "Checkpoint fines": "$10.00",
-            "Ritual Fines": "$30.00",
-            "Requirement Fines": "$45.00",
+            "Final fine": "$105.00",
+            "Brotherhood": "$10.00",
+            "Rush": "$10.00",
+            "Checkpoint": "$10.00",
+            "Ritual": "$30.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "PRESENT",
-            "10/3": "UA",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "UA",
-            "11/7": "UA",
-            "11/14": "UA",
-            "11/21": "UA",
-            "Notes": "2",
-            "UA": "5",
-            "": "Moon, Chris",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$10.00",
-            "Elections": "PRESENT"
+            "events": [
+                "10/3",
+                "10/10",
+                "10/24",
+                "11/7",
+                "11/14"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "UA",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "2",
-            "": "FALSE",
-            "Total Fine": "$10.00"
+            "events": [
+                "Checkpoint 1",
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "UA",
-            "Midcourt": "UA",
-            "Court of Honor": "PRESENT",
-            "Graduation": "UA",
-            "UA/ULA/UED": "3",
-            "Missed": "3",
-            "Total Fine": "$30.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Induction 2/17",
+                "Midcourt",
+                "Graduation"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
             "Total Points": "0",
             "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "First": "Singh",
-            "Last": " Arushi",
-            "sanitized name": "singh, arushi",
-            "Fine": "$45.00"
+            "Missing out of 6": "6"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Singh",
-            "First": " Arushi",
-            "Sanitized": "singh, arushi",
             "Fine Reduction": "$0.00"
         }
     },
     "xyu.robert@gmail.com": {
-        "name": "Xu, Robert",
+        "name": "xu, robert",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$50.00",
-            "Total fine before reduction": "$50.00",
-            "Brother Hood Fines": "$5.00",
-            "Rush Event Fines": "$0.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$0.00",
-            "Requirement Fines": "$45.00",
+            "Final fine": "$45.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$0.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$0.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "EA",
-            "10/3": "UA",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "PRESENT",
-            "11/7": "UA",
-            "11/14": "UA",
-            "11/21": "UA",
-            "Notes": "3",
-            "UA": "4",
-            "": "Yuan, Meilin",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$5.00",
-            "Elections": "PRESENT"
+            "events": [
+                "10/3",
+                "11/7",
+                "11/14"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "ULA",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "1",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": [
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "EA",
-            "Midcourt": "PRESENT",
-            "Court of Honor": "PRESENT",
-            "Graduation": "PRESENT",
-            "UA/ULA/UED": "0",
-            "Missed": "0",
-            "Total Fine": "$0.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": []
         },
         "Requirement Fines": {
-            "RR": "FALSE",
             "Total Points": "0",
             "Missing out of 9": "9",
             "Missing out of 6": "6",
-            "First": "Xu",
-            "Last": " Robert",
-            "sanitized name": "xu, robert",
-            "Fine": "$45.00"
+            "Professional": "",
+            "Brotherhood": "2",
+            "DEI": "1",
+            "Fundraising": "0",
+            "Community Service": "0",
+            "Total": "4",
+            "": "",
+            "Cleaned Name": "yim, daeun",
+            "What type of event was it?": "Professional"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Xu",
-            "First": " Robert",
-            "Sanitized": "xu, robert",
             "Fine Reduction": "$0.00"
         }
     },
     "charlieteixeira5@gmail.com": {
-        "name": "Teixeira, Charlie",
+        "name": "teixeira, charlie",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$80.00",
-            "Total fine before reduction": "$80.00",
-            "Brother Hood Fines": "$0.00",
-            "Rush Event Fines": "$5.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$30.00",
-            "Requirement Fines": "$45.00",
+            "Final fine": "$80.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$5.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$30.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "PRESENT",
-            "10/3": "PRESENT",
-            "10/10": "UA",
-            "10/17": "UA",
-            "10/24": "PRESENT",
-            "11/7": "PRESENT",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "5",
-            "UA": "3",
-            "": "Shroff, Marvi",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$0.00",
-            "Elections": "PRESENT"
+            "events": [
+                "10/17"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "PRESENT",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "1",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": [
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "UA",
-            "Midcourt": "UA",
-            "Court of Honor": "PRESENT",
-            "Graduation": "UA",
-            "UA/ULA/UED": "3",
-            "Missed": "3",
-            "Total Fine": "$30.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Induction 2/17",
+                "Midcourt",
+                "Graduation"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
             "Total Points": "0",
             "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "First": "Teixeira",
-            "Last": " Charlie",
-            "sanitized name": "teixeira, charlie",
-            "Fine": "$45.00"
+            "Missing out of 6": "6"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Teixeira",
-            "First": " Charlie",
-            "Sanitized": "teixeira, charlie",
             "Fine Reduction": "$0.00"
         }
     },
     "kaush2003@gmail.com": {
-        "name": "Vejju, Kaushik",
+        "name": "vejju, kaushik",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$65.00",
-            "Total fine before reduction": "$65.00",
-            "Brother Hood Fines": "$5.00",
-            "Rush Event Fines": "$10.00",
-            "Checkpoint fines": "$10.00",
-            "Ritual Fines": "$20.00",
-            "Requirement Fines": "$20.00",
+            "Final fine": "$85.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$10.00",
+            "Checkpoint": "$10.00",
+            "Ritual": "$20.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "PRESENT",
-            "10/3": "UA",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "UA",
-            "11/7": "PRESENT",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "4",
-            "UA": "4",
-            "": "Sims, Summer",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$5.00",
-            "Elections": "PRESENT"
+            "events": [
+                "10/3",
+                "10/10",
+                "10/24"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "UA",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "2",
-            "": "FALSE",
-            "Total Fine": "$10.00"
+            "events": [
+                "Checkpoint 1",
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "UA",
-            "Midcourt": "PRESENT",
-            "Court of Honor": "PRESENT",
-            "Graduation": "UA",
-            "UA/ULA/UED": "2",
-            "Missed": "2",
-            "Total Fine": "$20.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Induction 2/17",
+                "Graduation"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
-            "Total Points": "5",
-            "Missing out of 9": "4",
-            "Missing out of 6": "1",
-            "First": "Vejju",
-            "Last": " Kaushik",
-            "sanitized name": "vejju, kaushik",
-            "Fine": "$20.00"
+            "Total Points": "0",
+            "Missing out of 9": "9",
+            "Missing out of 6": "6",
+            "Professional": "",
+            "Brotherhood": "2",
+            "DEI": "1",
+            "Fundraising": "0",
+            "Community Service": "0",
+            "Total": "5",
+            "": "",
+            "Cleaned Name": "mathur, mudit",
+            "What type of event was it?": "Professional"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Vejju",
-            "First": " Kaushik",
-            "Sanitized": "vejju, kaushik",
             "Fine Reduction": "$0.00"
         }
     },
     "anshvis@terpmail.umd.edu": {
-        "name": "Viswanathan, Ansh",
+        "name": "viswanathan, ansh",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$45.00",
-            "Total fine before reduction": "$45.00",
-            "Brother Hood Fines": "$0.00",
-            "Rush Event Fines": "$0.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$0.00",
-            "Requirement Fines": "$45.00",
+            "Final fine": "$45.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$0.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$0.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "PRESENT",
-            "10/3": "UA",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "PRESENT",
-            "11/7": "PRESENT",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "5",
-            "UA": "3",
-            "": "Wang, Jiayi",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$0.00",
-            "Elections": "PRESENT"
+            "events": [
+                "10/3"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "PRESENT",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "1",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": [
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "PRESENT",
-            "Midcourt": "PRESENT",
-            "Court of Honor": "PRESENT",
-            "Graduation": "PRESENT",
-            "UA/ULA/UED": "0",
-            "Missed": "0",
-            "Total Fine": "$0.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": []
         },
         "Requirement Fines": {
-            "RR": "FALSE",
             "Total Points": "0",
             "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "First": "Viswanathan",
-            "Last": " Ansh",
-            "sanitized name": "viswanathan, ansh",
-            "Fine": "$45.00"
+            "Missing out of 6": "6"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Viswanathan",
-            "First": " Ansh",
-            "Sanitized": "viswanathan, ansh",
             "Fine Reduction": "$0.00"
         }
     },
     "jiayiwangg2004@gmail.com": {
-        "name": "Wang, Jiayi",
+        "name": "wang, jiayi",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$20.00",
-            "Total fine before reduction": "$20.00",
-            "Brother Hood Fines": "$10.00",
-            "Rush Event Fines": "$5.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$0.00",
-            "Requirement Fines": "$5.00",
+            "Final fine": "$55.00",
+            "Brotherhood": "$5.00",
+            "Rush": "$5.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$0.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "PRESENT",
-            "10/3": "UA",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "UA",
-            "11/7": "UA",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "3",
-            "UA": "5",
-            "": "Xu, Robert",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$10.00",
-            "Elections": "PRESENT"
+            "events": [
+                "10/3",
+                "10/10",
+                "10/24",
+                "11/7"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "UA",
-            "Checkpoint 2": "PRESENT",
-            "Missed (out of 1 required)": "1",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": [
+                "Checkpoint 1"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "PRESENT",
-            "Midcourt": "PRESENT",
-            "Court of Honor": "PRESENT",
-            "Graduation": "PRESENT",
-            "UA/ULA/UED": "0",
-            "Missed": "0",
-            "Total Fine": "$0.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": []
         },
         "Requirement Fines": {
-            "RR": "FALSE",
-            "Total Points": "8",
-            "Missing out of 9": "1",
-            "Missing out of 6": "0",
-            "First": "Wang",
-            "Last": " Jiayi",
-            "sanitized name": "wang, jiayi",
-            "Fine": "$5.00"
+            "Total Points": "0",
+            "Missing out of 9": "9",
+            "Missing out of 6": "6",
+            "Professional": "",
+            "Brotherhood": "2",
+            "DEI": "1",
+            "Fundraising": "2",
+            "Community Service": "1",
+            "Total": "8",
+            "": "",
+            "Cleaned Name": "dang, diem",
+            "What type of event was it?": "DEI"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Wang",
-            "First": " Jiayi",
-            "Sanitized": "wang, jiayi",
             "Fine Reduction": "$0.00"
         }
     },
     "daeunyim@gmail.com": {
-        "name": "Yim, Da Eun",
+        "name": "yim, da eun",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$45.00",
-            "Total fine before reduction": "$45.00",
-            "Brother Hood Fines": "$0.00",
-            "Rush Event Fines": "$0.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$0.00",
-            "Requirement Fines": "$45.00",
+            "Final fine": "$45.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$0.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$0.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "PRESENT",
-            "10/3": "UA",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "PRESENT",
-            "11/7": "PRESENT",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "5",
-            "UA": "3",
-            "": "Dong, Alex",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$0.00",
-            "Elections": "PRESENT"
+            "events": [
+                "10/3",
+                "10/10"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "UA",
-            "Checkpoint 2": "PRESENT",
-            "Missed (out of 1 required)": "1",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": [
+                "Checkpoint 1"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "EA",
-            "Midcourt": "PRESENT",
-            "Court of Honor": "PRESENT",
-            "Graduation": "PRESENT",
-            "UA/ULA/UED": "0",
-            "Missed": "0",
-            "Total Fine": "$0.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": []
         },
         "Requirement Fines": {
-            "RR": "FALSE",
             "Total Points": "0",
             "Missing out of 9": "9",
             "Missing out of 6": "6",
-            "First": "Yim",
-            "Last": " Da Eun",
-            "sanitized name": "yim, daeun",
-            "Fine": "$45.00"
+            "Professional": "Fundraising",
+            "Brotherhood": "0",
+            "DEI": "0",
+            "Fundraising": "1",
+            "Community Service": "0",
+            "Total": "2",
+            "": "",
+            "Cleaned Name": "marquez, adilene",
+            "What type of event was it?": "Brotherhood"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Yim",
-            "First": " Da Eun",
-            "Sanitized": "yim, daeun",
             "Fine Reduction": "$0.00"
         }
     },
     "myuan036@terpmail.umd.edu": {
-        "name": "Yuan, Meilin",
+        "name": "yuan, meilin",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$10.00",
-            "Total fine before reduction": "$15.00",
-            "Brother Hood Fines": "$5.00",
-            "Rush Event Fines": "$0.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$10.00",
-            "Requirement Fines": "$0.00",
+            "Final fine": "$50.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$0.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$10.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$5.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "UA",
-            "10/3": "UA",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "PRESENT",
-            "11/7": "EA",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "4",
-            "UA": "4",
-            "": "Garg, Tushar",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$5.00",
-            "Elections": "PRESENT"
+            "events": [
+                "9/26",
+                "10/3",
+                "10/10"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "PRESENT",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "1",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": [
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "UA",
-            "Midcourt": "PRESENT",
-            "Court of Honor": "PRESENT",
-            "Graduation": "PRESENT",
-            "UA/ULA/UED": "1",
-            "Missed": "1",
-            "Total Fine": "$10.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Induction 2/17"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
-            "Total Points": "9",
-            "Missing out of 9": "0",
-            "Missing out of 6": "0",
-            "First": "Yuan",
-            "Last": " Meilin",
-            "sanitized name": "yuan, meilin",
-            "Fine": "$0.00"
+            "Total Points": "0",
+            "Missing out of 9": "9",
+            "Missing out of 6": "6",
+            "Professional": "",
+            "Brotherhood": "2",
+            "DEI": "2",
+            "Fundraising": "1",
+            "Community Service": "2",
+            "Total": "9",
+            "": "",
+            "Cleaned Name": "chen, eileen",
+            "What type of event was it?": "Professional"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "1",
-            "Last": "Yuan",
-            "First": " Meilin",
-            "Sanitized": "yuan, meilin",
             "Fine Reduction": "$5.00"
         }
     },
     "rzhang24@terpmail.umd.edu": {
-        "name": "Zhang, Rebecca",
+        "name": "zhang, rebecca",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$0.00",
-            "Total fine before reduction": "$10.00",
-            "Brother Hood Fines": "$0.00",
-            "Rush Event Fines": "$0.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$0.00",
-            "Requirement Fines": "$10.00",
+            "Final fine": "$35.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$0.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$0.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$10.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "PRESENT",
-            "10/3": "EA",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "PRESENT",
-            "11/7": "PRESENT",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "6",
-            "UA": "2",
-            "": "Gupta, Saahil",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$0.00",
-            "Elections": "PRESENT"
+            "events": []
         },
         "Checkpoints": {
-            "Checkpoint 1": "PRESENT",
-            "Checkpoint 2": "PRESENT",
-            "Missed (out of 1 required)": "0",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": []
         },
         "Rituals": {
-            "Induction 2/17": "EA",
-            "Midcourt": "PRESENT",
-            "Court of Honor": "PRESENT",
-            "Graduation": "PRESENT",
-            "UA/ULA/UED": "0",
-            "Missed": "0",
-            "Total Fine": "$0.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": []
         },
         "Requirement Fines": {
-            "RR": "FALSE",
-            "Total Points": "7",
-            "Missing out of 9": "2",
-            "Missing out of 6": "0",
-            "First": "Zhang",
-            "Last": " Rebecca",
-            "sanitized name": "zhang, rebecca",
-            "Fine": "$10.00"
+            "Total Points": "0",
+            "Missing out of 9": "9",
+            "Missing out of 6": "6",
+            "Professional": "",
+            "Brotherhood": "2",
+            "DEI": "2",
+            "Fundraising": "0",
+            "Community Service": "1",
+            "Total": "7",
+            "": "",
+            "Cleaned Name": "wang, jiayi",
+            "What type of event was it?": "Professional"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "2",
-            "Last": "Zhang",
-            "First": " Rebecca",
-            "Sanitized": "zhang, rebecca",
             "Fine Reduction": "$10.00"
         }
     },
     "bzhao123@terpmail.umd.edu": {
-        "name": "Zhao, Bill",
+        "name": "zhao, bill",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$0.00",
-            "Total fine before reduction": "$20.00",
-            "Brother Hood Fines": "$0.00",
-            "Rush Event Fines": "$0.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$10.00",
-            "Requirement Fines": "$10.00",
+            "Final fine": "$0.00",
+            "Brotherhood": "$0.00",
+            "Rush": "$0.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$10.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$10.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "PRESENT",
-            "10/3": "PRESENT",
-            "10/10": "UA",
-            "10/17": "PRESENT",
-            "10/24": "PRESENT",
-            "11/7": "PRESENT",
-            "11/14": "PRESENT",
-            "11/21": "UA",
-            "Notes": "6",
-            "UA": "2",
-            "": "Jain, Umang",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$0.00",
-            "Elections": "PRESENT"
+            "events": []
         },
         "Checkpoints": {
-            "Checkpoint 1": "PRESENT",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "1",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": [
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "UA",
-            "Midcourt": "PRESENT",
-            "Court of Honor": "PRESENT",
-            "Graduation": "PRESENT",
-            "UA/ULA/UED": "1",
-            "Missed": "1",
-            "Total Fine": "$10.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Induction 2/17"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
-            "Total Points": "7",
-            "Missing out of 9": "2",
-            "Missing out of 6": "0",
-            "First": "Zhao",
-            "Last": " Bill",
-            "sanitized name": "zhao, bill",
-            "Fine": "$10.00"
+            "Total Points": "0",
+            "Missing out of 9": "9",
+            "Missing out of 6": "6",
+            "Professional": "",
+            "Brotherhood": "4",
+            "DEI": "1",
+            "Fundraising": "0",
+            "Community Service": "0",
+            "Total": "7",
+            "": "",
+            "Cleaned Name": "shroff, marvi",
+            "What type of event was it?": "Professional"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "2",
-            "Last": "Zhao",
-            "First": " Bill",
-            "Sanitized": "zhao, bill",
             "Fine Reduction": "$10.00"
         }
     },
     "andyzheng235@gmail.com": {
-        "name": "Zheng, Andrew",
+        "name": "zheng, andrew",
         "Fines": {
-            "RR": "FALSE",
-            "Final  Fine": "$75.00",
-            "Total fine before reduction": "$75.00",
-            "Brother Hood Fines": "$10.00",
-            "Rush Event Fines": "$0.00",
-            "Checkpoint fines": "$0.00",
-            "Ritual Fines": "$20.00",
-            "Requirement Fines": "$45.00",
+            "Final fine": "$75.00",
+            "Brotherhood": "$10.00",
+            "Rush": "$0.00",
+            "Checkpoint": "$0.00",
+            "Ritual": "$20.00",
+            "Requirement": "$45.00",
             "Fine Reduction": "$0.00"
         },
         "Brotherhood Meetings": {
-            "9/5": "UA",
-            "9/26": "PRESENT",
-            "10/3": "PRESENT",
-            "10/10": "UA",
-            "10/17": "UA",
-            "10/24": "UA",
-            "11/7": "UA",
-            "11/14": "UA",
-            "11/21": "UA",
-            "Notes": "2",
-            "UA": "5",
-            "": "Karki, Kamana",
-            "ULA": "0",
-            "UED": "0",
-            "Brother Hood Fines": "$10.00",
-            "Elections": "PRESENT"
+            "events": [
+                "10/10",
+                "10/17",
+                "10/24",
+                "11/7",
+                "11/14"
+            ]
         },
         "Checkpoints": {
-            "Checkpoint 1": "PRESENT",
-            "Checkpoint 2": "UA",
-            "Missed (out of 1 required)": "1",
-            "": "FALSE",
-            "Total Fine": "$0.00"
+            "events": [
+                "Checkpoint 2"
+            ]
         },
         "Rituals": {
-            "Induction 2/17": "PRESENT",
-            "Midcourt": "UA",
-            "Court of Honor": "PRESENT",
-            "Graduation": "UA",
-            "UA/ULA/UED": "2",
-            "Missed": "2",
-            "Total Fine": "$20.00",
-            "": "FALSE",
-            "Induction Make Ups": ""
+            "events": [
+                "Midcourt",
+                "Graduation"
+            ]
         },
         "Requirement Fines": {
-            "RR": "FALSE",
             "Total Points": "0",
             "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "First": "Zheng",
-            "Last": " Andrew",
-            "sanitized name": "zheng, andrew",
-            "Fine": "$45.00"
+            "Missing out of 6": "6"
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
-            "Last": "Zheng",
-            "First": " Andrew",
-            "Sanitized": "zheng, andrew",
             "Fine Reduction": "$0.00"
-        }
-    },
-    "": {
-        "name": "Hassen,Awar",
-        "Fines": {
-            "RR": "",
-            "Final  Fine": "",
-            "Total fine before reduction": "",
-            "Brother Hood Fines": "",
-            "Rush Event Fines": "",
-            "Checkpoint fines": "",
-            "Ritual Fines": "",
-            "Requirement Fines": "",
-            "Fine Reduction": ""
-        },
-        "Brotherhood Meetings": {
-            "9/5": "",
-            "9/26": "",
-            "10/3": "",
-            "10/10": "",
-            "10/17": "",
-            "10/24": "",
-            "11/7": "",
-            "11/14": "",
-            "11/21": "",
-            "Notes": "",
-            "UA": "",
-            "": "",
-            "ULA": "",
-            "UED": "",
-            "Brother Hood Fines": "",
-            "Elections": "69"
-        },
-        "Checkpoints": {
-            "Checkpoint 1": "",
-            "Checkpoint 2": "",
-            "Missed (out of 1 required)": "",
-            "": "",
-            "Total Fine": ""
-        },
-        "Rituals": {
-            "Induction 2/17": "",
-            "Midcourt": "15",
-            "Court of Honor": "",
-            "Graduation": "",
-            "UA/ULA/UED": "",
-            "Missed": "",
-            "Total Fine": "",
-            "": "",
-            "Induction Make Ups": ""
         }
     }
 }
