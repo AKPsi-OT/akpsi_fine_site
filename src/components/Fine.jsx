@@ -1,27 +1,26 @@
 import React from "react";
 
-export default function Fine({name, amount, expanded, toggleExpand, details}) {
+export default function Fine({ name, amount, expanded, toggleExpand, details, reducedRequirements }) {
 	let detailContent;
 	let eventName;
 	switch (name) {
-		case "Brotherhood":
+		case "Brotherhood Meetings":
 			eventName = "brotherhoods";
 			break;
-		case "Ritual":
+		case "Rituals":
 			eventName = "rituals";
 			break;
-		case "Rush":
+		case "Rush Events":
 			eventName = "rush events";
 			break;
-		case "Checkpoint":
+		case "Checkpoints":
 			eventName = "checkpoints";
 			break;
-		case "Requirement":
+		case "Requirement Fines":
 			eventName = "requirements";
 			break;
 	}
 
-	console.log(details);
 	if (details) {
 		if (details.events) {
 			detailContent = (
@@ -35,21 +34,30 @@ export default function Fine({name, amount, expanded, toggleExpand, details}) {
 			detailContent = (
 				<div>
 					<p>
-						You have {details.requirements.count} total points. You
-						need 9 !
+						You have {details.requirements["Total Points"]} total points. You
+						need {reducedRequirements ? 6 : 9} !
 					</p>
 					<ul>
 						<li>
-							You have {details.requirements.brotherhood}{" "}
-							brotherhood points
+							You have {details.requirements.Brotherhood}{" "}
+							Brotherhood points
 						</li>
 						<li>
-							You have {details.requirements.professional}{" "}
-							professional points
+							You have {details.requirements.Professional}{" "}
+							Professional points
 						</li>
-						<li>You have {details.requirements.dei} dei points</li>
-						<li>You have {details.requirements.cs} cs points</li>
+						<li>You have {details.requirements.DEI} DEI points</li>
+						<li>You have {details.requirements["Community Service"]} Community Service points</li>
+						<li>You have {details.requirements.Fundraising}  Fundraising points</li>
 					</ul>
+				</div>
+			);
+		} else if (details.creditHours){
+			detailContent = (
+				<div>
+					{" "}
+					<p>You have {details.creditHours} credit hours</p>
+					<p> Each credit hour is worth $5</p>
 				</div>
 			);
 		}
@@ -59,16 +67,21 @@ export default function Fine({name, amount, expanded, toggleExpand, details}) {
 			<div className="fine">
 				<button
 					className="expandButton"
-					onClick={details ? toggleExpand : () => {}}
+					onClick={details ? toggleExpand : () => { }}
+					style={
+						details && {
+							cursor: "pointer"
+						}
+					}
 				>
 					<p className="fine-category">
 						{name}:{" "}
 						<span
 							style={{
-								color: name !== "Reduction" ? "red" : "green",
+								color: name !== "Fine Reduction Amount" ? "red" : "green",
 							}}
 						>
-							${amount}
+							{amount}
 						</span>
 					</p>
 					{details && (

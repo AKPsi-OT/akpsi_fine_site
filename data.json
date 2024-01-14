@@ -2,13 +2,14 @@
     "arjunaggarwal173@gmail.com": {
         "name": "aggarwal, arjun",
         "Fines": {
-            "Final fine": "$110.00",
-            "Brotherhood": "$20.00",
-            "Rush": "$5.00",
-            "Checkpoint": "$10.00",
-            "Ritual": "$30.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "RR": "FALSE",
+            "Final fine": "$90.00",
+            "Brotherhood Meetings": "$20.00",
+            "Rush Events": "$5.00",
+            "Checkpoints": "$10.00",
+            "Rituals": "$30.00",
+            "Requirements": "$25.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -34,19 +35,21 @@
                 "Graduation"
             ]
         },
-        "Requirement Fines": {
-            "Total Points": "0",
-            "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "Professional": "",
+        "Requirements": {
+            "Total Points": "4",
+            "Missing out of 9": "5",
+            "Missing out of 6": "2",
+            "Professional": "1",
             "Brotherhood": "0",
             "DEI": "0",
             "Fundraising": "2",
             "Community Service": "1",
-            "Total": "4",
-            "": "",
-            "Cleaned Name": "schwartz, megan",
-            "What type of event was it?": "Community Service"
+            "Total": "4"
+        },
+        "Rush Events": {
+            "events": [
+                "Callback Night* 9/20 pm"
+            ]
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -56,13 +59,14 @@
     "jahluwal@terpmail.umd.edu": {
         "name": "ahluwalia, jasdeep",
         "Fines": {
+            "RR": "FALSE",
             "Final fine": "$115.00",
-            "Brotherhood": "$15.00",
-            "Rush": "$5.00",
-            "Checkpoint": "$10.00",
-            "Ritual": "$40.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "Brotherhood Meetings": "$15.00",
+            "Rush Events": "$5.00",
+            "Checkpoints": "$10.00",
+            "Rituals": "$40.00",
+            "Requirements": "$45.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -88,10 +92,15 @@
                 "Graduation"
             ]
         },
-        "Requirement Fines": {
+        "Requirements": {
             "Total Points": "0",
             "Missing out of 9": "9",
             "Missing out of 6": "6"
+        },
+        "Rush Events": {
+            "events": [
+                "Info Night* 9/11"
+            ]
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -101,13 +110,14 @@
     "william.ahn01@gmail.com": {
         "name": "ahn, william",
         "Fines": {
+            "RR": "FALSE",
             "Final fine": "$140.00",
-            "Brotherhood": "$20.00",
-            "Rush": "$25.00",
-            "Checkpoint": "$10.00",
-            "Ritual": "$40.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "Brotherhood Meetings": "$20.00",
+            "Rush Events": "$25.00",
+            "Checkpoints": "$10.00",
+            "Rituals": "$40.00",
+            "Requirements": "$45.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -134,10 +144,19 @@
                 "Graduation"
             ]
         },
-        "Requirement Fines": {
+        "Requirements": {
             "Total Points": "0",
             "Missing out of 9": "9",
             "Missing out of 6": "6"
+        },
+        "Rush Events": {
+            "events": [
+                "Info Night* 9/11",
+                "CS Night * 9/13",
+                "Professional Interviews* 9/18 7pm",
+                "Callback Night* 9/20 pm",
+                "Bid Night* 9/21 5pm"
+            ]
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -147,13 +166,14 @@
     "samiassaf105@gmail.com": {
         "name": "assaf, sami",
         "Fines": {
+            "RR": "FALSE",
             "Final fine": "$95.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$0.00",
-            "Checkpoint": "$10.00",
-            "Ritual": "$40.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$0.00",
+            "Checkpoints": "$10.00",
+            "Rituals": "$40.00",
+            "Requirements": "$45.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": []
@@ -172,10 +192,13 @@
                 "Graduation"
             ]
         },
-        "Requirement Fines": {
+        "Requirements": {
             "Total Points": "0",
             "Missing out of 9": "9",
             "Missing out of 6": "6"
+        },
+        "Rush Events": {
+            "events": []
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -185,13 +208,14 @@
     "aadriab@gmail.com": {
         "name": "bagchi, aadria",
         "Fines": {
+            "RR": "FALSE",
             "Final fine": "$65.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$0.00",
-            "Checkpoint": "$10.00",
-            "Ritual": "$10.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$0.00",
+            "Checkpoints": "$10.00",
+            "Rituals": "$10.00",
+            "Requirements": "$45.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": []
@@ -207,10 +231,13 @@
                 "Graduation"
             ]
         },
-        "Requirement Fines": {
+        "Requirements": {
             "Total Points": "0",
             "Missing out of 9": "9",
             "Missing out of 6": "6"
+        },
+        "Rush Events": {
+            "events": []
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -220,13 +247,14 @@
     "ebenne92@terpmail.umd.edu": {
         "name": "bennett, eric",
         "Fines": {
+            "RR": "FALSE",
             "Final fine": "$80.00",
-            "Brotherhood": "$10.00",
-            "Rush": "$5.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$20.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "Brotherhood Meetings": "$10.00",
+            "Rush Events": "$5.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$20.00",
+            "Requirements": "$45.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -248,10 +276,15 @@
                 "Midcourt"
             ]
         },
-        "Requirement Fines": {
+        "Requirements": {
             "Total Points": "0",
             "Missing out of 9": "9",
             "Missing out of 6": "6"
+        },
+        "Rush Events": {
+            "events": [
+                "Info Night* 9/11"
+            ]
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -261,13 +294,14 @@
     "ayman.bootwala@gmail.com": {
         "name": "bootwala, ayman",
         "Fines": {
+            "RR": "FALSE",
             "Final fine": "$60.00",
-            "Brotherhood": "$5.00",
-            "Rush": "$0.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$10.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "Brotherhood Meetings": "$5.00",
+            "Rush Events": "$0.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$10.00",
+            "Requirements": "$45.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -287,10 +321,13 @@
                 "Midcourt"
             ]
         },
-        "Requirement Fines": {
+        "Requirements": {
             "Total Points": "0",
             "Missing out of 9": "9",
             "Missing out of 6": "6"
+        },
+        "Rush Events": {
+            "events": []
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -300,13 +337,14 @@
     "eileenc@terpmail.umd.edu": {
         "name": "chen, eileen",
         "Fines": {
-            "Final fine": "$10.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$0.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$0.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$35.00"
+            "RR": "FALSE",
+            "Final fine": "$0.00",
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$0.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$0.00",
+            "Requirements": "$0.00",
+            "Fine Reduction Amount": "$35.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -320,19 +358,19 @@
         "Rituals": {
             "events": []
         },
-        "Requirement Fines": {
-            "Total Points": "0",
-            "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "Professional": "",
+        "Requirements": {
+            "Total Points": "11",
+            "Missing out of 9": "0",
+            "Missing out of 6": "0",
+            "Professional": "2",
             "Brotherhood": "4",
             "DEI": "2",
             "Fundraising": "1",
             "Community Service": "2",
-            "Total": "11",
-            "": "",
-            "Cleaned Name": "yim, daeun",
-            "What type of event was it?": "Fundraising"
+            "Total": "11"
+        },
+        "Rush Events": {
+            "events": []
         },
         "Fine Reduction Amount": {
             "Credit Hours": "7",
@@ -342,13 +380,14 @@
     "jchiang1@terpmail.umd.edu": {
         "name": "chiang, jennifer",
         "Fines": {
-            "Final fine": "$55.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$0.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$10.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "RR": "FALSE",
+            "Final fine": "$10.00",
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$0.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$10.00",
+            "Requirements": "$0.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": []
@@ -361,19 +400,19 @@
                 "Induction 2/17"
             ]
         },
-        "Requirement Fines": {
-            "Total Points": "0",
-            "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "Professional": "",
+        "Requirements": {
+            "Total Points": "10",
+            "Missing out of 9": "0",
+            "Missing out of 6": "0",
+            "Professional": "3",
             "Brotherhood": "2",
             "DEI": "2",
             "Fundraising": "1",
             "Community Service": "2",
-            "Total": "10",
-            "": "",
-            "Cleaned Name": "dang, diem",
-            "What type of event was it?": "Professional"
+            "Total": "10"
+        },
+        "Rush Events": {
+            "events": []
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -383,13 +422,14 @@
     "caelia.chung@gmail.com": {
         "name": "chung, caelia",
         "Fines": {
-            "Final fine": "$70.00",
-            "Brotherhood": "$5.00",
-            "Rush": "$5.00",
-            "Checkpoint": "$10.00",
-            "Ritual": "$10.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$5.00"
+            "RR": "FALSE",
+            "Final fine": "$40.00",
+            "Brotherhood Meetings": "$5.00",
+            "Rush Events": "$5.00",
+            "Checkpoints": "$10.00",
+            "Rituals": "$10.00",
+            "Requirements": "$15.00",
+            "Fine Reduction Amount": "$5.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -410,19 +450,21 @@
                 "Induction 2/17"
             ]
         },
-        "Requirement Fines": {
-            "Total Points": "0",
-            "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "Professional": "",
+        "Requirements": {
+            "Total Points": "6",
+            "Missing out of 9": "3",
+            "Missing out of 6": "0",
+            "Professional": "0",
             "Brotherhood": "3",
             "DEI": "1",
             "Fundraising": "0",
             "Community Service": "2",
-            "Total": "6",
-            "": "",
-            "Cleaned Name": "yuan, meilin",
-            "What type of event was it?": "Brotherhood"
+            "Total": "6"
+        },
+        "Rush Events": {
+            "events": [
+                "Callback Night* 9/20 pm"
+            ]
         },
         "Fine Reduction Amount": {
             "Credit Hours": "1",
@@ -432,13 +474,14 @@
     "ryandabbs88@gmail.com": {
         "name": "dabbs, ryan",
         "Fines": {
+            "RR": "FALSE",
             "Final fine": "$80.00",
-            "Brotherhood": "$10.00",
-            "Rush": "$15.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$10.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "Brotherhood Meetings": "$10.00",
+            "Rush Events": "$15.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$10.00",
+            "Requirements": "$45.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -459,10 +502,17 @@
                 "Graduation"
             ]
         },
-        "Requirement Fines": {
+        "Requirements": {
             "Total Points": "0",
             "Missing out of 9": "9",
             "Missing out of 6": "6"
+        },
+        "Rush Events": {
+            "events": [
+                "Info Night* 9/11",
+                "CS Night * 9/13",
+                "Callback Night* 9/20 pm"
+            ]
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -472,13 +522,14 @@
     "supriyad@terpmail.umd.edu": {
         "name": "daddi, supriya",
         "Fines": {
-            "Final fine": "$65.00",
-            "Brotherhood": "$5.00",
-            "Rush": "$10.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$20.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$15.00"
+            "RR": "FALSE",
+            "Final fine": "$30.00",
+            "Brotherhood Meetings": "$5.00",
+            "Rush Events": "$10.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$20.00",
+            "Requirements": "$10.00",
+            "Fine Reduction Amount": "$15.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -499,19 +550,22 @@
                 "Graduation"
             ]
         },
-        "Requirement Fines": {
-            "Total Points": "0",
-            "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "Professional": "",
+        "Requirements": {
+            "Total Points": "7",
+            "Missing out of 9": "2",
+            "Missing out of 6": "0",
+            "Professional": "2",
             "Brotherhood": "1",
             "DEI": "1",
             "Fundraising": "1",
             "Community Service": "2",
-            "Total": "7",
-            "": "",
-            "Cleaned Name": "o'toole, jack",
-            "What type of event was it?": "Brotherhood"
+            "Total": "7"
+        },
+        "Rush Events": {
+            "events": [
+                "CS Night * 9/13",
+                "Callback Night* 9/20 pm"
+            ]
         },
         "Fine Reduction Amount": {
             "Credit Hours": "3",
@@ -521,13 +575,14 @@
     "diem@terpmail.umd.edu": {
         "name": "dang, diem",
         "Fines": {
-            "Final fine": "$105.00",
-            "Brotherhood": "$20.00",
-            "Rush": "$10.00",
-            "Checkpoint": "$10.00",
-            "Ritual": "$20.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "RR": "FALSE",
+            "Final fine": "$70.00",
+            "Brotherhood Meetings": "$20.00",
+            "Rush Events": "$10.00",
+            "Checkpoints": "$10.00",
+            "Rituals": "$20.00",
+            "Requirements": "$10.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -552,19 +607,22 @@
                 "Graduation"
             ]
         },
-        "Requirement Fines": {
-            "Total Points": "0",
-            "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "Professional": "Community Service",
+        "Requirements": {
+            "Total Points": "7",
+            "Missing out of 9": "2",
+            "Missing out of 6": "0",
+            "Professional": "3",
             "Brotherhood": "1",
             "DEI": "1",
             "Fundraising": "1",
             "Community Service": "1",
-            "Total": "7",
-            "": "",
-            "Cleaned Name": "marquez, adilene",
-            "What type of event was it?": "DEI"
+            "Total": "7"
+        },
+        "Rush Events": {
+            "events": [
+                "Professional Interviews* 9/18 7pm",
+                "Bid Night* 9/21 5pm"
+            ]
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -574,13 +632,14 @@
     "rebecca.a.destefano@gmail.com": {
         "name": "destefano, rebecca",
         "Fines": {
-            "Final fine": "$80.00",
-            "Brotherhood": "$10.00",
-            "Rush": "$5.00",
-            "Checkpoint": "$10.00",
-            "Ritual": "$10.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "RR": "FALSE",
+            "Final fine": "$65.00",
+            "Brotherhood Meetings": "$10.00",
+            "Rush Events": "$5.00",
+            "Checkpoints": "$10.00",
+            "Rituals": "$10.00",
+            "Requirements": "$30.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -602,19 +661,21 @@
                 "Graduation"
             ]
         },
-        "Requirement Fines": {
-            "Total Points": "0",
-            "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "Professional": "",
+        "Requirements": {
+            "Total Points": "3",
+            "Missing out of 9": "6",
+            "Missing out of 6": "3",
+            "Professional": "1",
             "Brotherhood": "1",
             "DEI": "1",
             "Fundraising": "0",
             "Community Service": "0",
-            "Total": "3",
-            "": "",
-            "Cleaned Name": "swensen, emma",
-            "What type of event was it?": "Professional"
+            "Total": "3"
+        },
+        "Rush Events": {
+            "events": [
+                "CS Night * 9/13"
+            ]
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -624,13 +685,14 @@
     "cdoan@terpmail.umd.edu": {
         "name": "doan, co-tu",
         "Fines": {
-            "Final fine": "$40.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$0.00",
-            "Checkpoint": "$10.00",
-            "Ritual": "$0.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$15.00"
+            "RR": "FALSE",
+            "Final fine": "$0.00",
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$0.00",
+            "Checkpoints": "$10.00",
+            "Rituals": "$0.00",
+            "Requirements": "$0.00",
+            "Fine Reduction Amount": "$15.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -646,19 +708,19 @@
         "Rituals": {
             "events": []
         },
-        "Requirement Fines": {
-            "Total Points": "0",
-            "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "Professional": "",
+        "Requirements": {
+            "Total Points": "9",
+            "Missing out of 9": "0",
+            "Missing out of 6": "0",
+            "Professional": "2",
             "Brotherhood": "2",
             "DEI": "2",
             "Fundraising": "1",
             "Community Service": "2",
-            "Total": "9",
-            "": "",
-            "Cleaned Name": "marquez, adilene",
-            "What type of event was it?": "Brotherhood"
+            "Total": "9"
+        },
+        "Rush Events": {
+            "events": []
         },
         "Fine Reduction Amount": {
             "Credit Hours": "3",
@@ -668,13 +730,14 @@
     "adong@umd.edu": {
         "name": "dong, alex",
         "Fines": {
+            "RR": "FALSE",
             "Final fine": "$60.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$5.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$10.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$5.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$10.00",
+            "Requirements": "$45.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -692,10 +755,15 @@
                 "Graduation"
             ]
         },
-        "Requirement Fines": {
+        "Requirements": {
             "Total Points": "0",
             "Missing out of 9": "9",
             "Missing out of 6": "6"
+        },
+        "Rush Events": {
+            "events": [
+                "Callback Night* 9/20 pm"
+            ]
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -705,13 +773,14 @@
     "arshiya.dutta12@gmail.com": {
         "name": "dutta, arshiya",
         "Fines": {
+            "RR": "TRUE",
             "Final fine": "$130.00",
-            "Brotherhood": "$30.00",
-            "Rush": "$20.00",
-            "Checkpoint": "$10.00",
-            "Ritual": "$40.00",
-            "Requirement": "$30.00",
-            "Fine Reduction": "$0.00"
+            "Brotherhood Meetings": "$30.00",
+            "Rush Events": "$20.00",
+            "Checkpoints": "$10.00",
+            "Rituals": "$40.00",
+            "Requirements": "$30.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -737,10 +806,18 @@
                 "Graduation"
             ]
         },
-        "Requirement Fines": {
+        "Requirements": {
             "Total Points": "0",
             "Missing out of 9": "9",
             "Missing out of 6": "6"
+        },
+        "Rush Events": {
+            "events": [
+                "CS Night * 9/13",
+                "Professional Interviews* 9/18 7pm",
+                "Callback Night* 9/20 pm",
+                "Bid Night* 9/21 5pm"
+            ]
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -750,13 +827,14 @@
     "tushar03@gmail.com": {
         "name": "garg, tushar",
         "Fines": {
+            "RR": "FALSE",
             "Final fine": "$70.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$5.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$20.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$5.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$20.00",
+            "Requirements": "$45.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -776,10 +854,15 @@
                 "Graduation"
             ]
         },
-        "Requirement Fines": {
+        "Requirements": {
             "Total Points": "0",
             "Missing out of 9": "9",
             "Missing out of 6": "6"
+        },
+        "Rush Events": {
+            "events": [
+                "Info Night* 9/11"
+            ]
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -789,13 +872,14 @@
     "hud004@terpmail.umd.edu": {
         "name": "grill, hudson",
         "Fines": {
+            "RR": "FALSE",
             "Final fine": "$45.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$0.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$0.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$0.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$0.00",
+            "Requirements": "$45.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": []
@@ -808,10 +892,13 @@
         "Rituals": {
             "events": []
         },
-        "Requirement Fines": {
+        "Requirements": {
             "Total Points": "0",
             "Missing out of 9": "9",
             "Missing out of 6": "6"
+        },
+        "Rush Events": {
+            "events": []
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -821,13 +908,14 @@
     "rgudwani@terpmail.umd.edu": {
         "name": "gudwani, rohan",
         "Fines": {
-            "Final fine": "$31.25",
-            "Brotherhood": "$0.00",
-            "Rush": "$0.00",
-            "Checkpoint": "$10.00",
-            "Ritual": "$10.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$33.75"
+            "RR": "FALSE",
+            "Final fine": "$0.00",
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$0.00",
+            "Checkpoints": "$10.00",
+            "Rituals": "$10.00",
+            "Requirements": "$10.00",
+            "Fine Reduction Amount": "$33.75"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -847,19 +935,19 @@
                 "Midcourt"
             ]
         },
-        "Requirement Fines": {
-            "Total Points": "0",
-            "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "Professional": "",
+        "Requirements": {
+            "Total Points": "7",
+            "Missing out of 9": "2",
+            "Missing out of 6": "0",
+            "Professional": "1",
             "Brotherhood": "3",
             "DEI": "1",
             "Fundraising": "1",
             "Community Service": "1",
-            "Total": "7",
-            "": "",
-            "Cleaned Name": "shroff, marvi",
-            "What type of event was it?": "DEI"
+            "Total": "7"
+        },
+        "Rush Events": {
+            "events": []
         },
         "Fine Reduction Amount": {
             "Credit Hours": "6.75",
@@ -869,13 +957,14 @@
     "saahil.g16@gmail.com": {
         "name": "gupta, saahil",
         "Fines": {
+            "RR": "FALSE",
             "Final fine": "$75.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$10.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$20.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$10.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$20.00",
+            "Requirements": "$45.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -895,10 +984,16 @@
                 "Graduation"
             ]
         },
-        "Requirement Fines": {
+        "Requirements": {
             "Total Points": "0",
             "Missing out of 9": "9",
             "Missing out of 6": "6"
+        },
+        "Rush Events": {
+            "events": [
+                "CS Night * 9/13",
+                "Callback Night* 9/20 pm"
+            ]
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -908,13 +1003,14 @@
     "jimmyherman9@gmail.com": {
         "name": "herman, jimmy",
         "Fines": {
-            "Final fine": "$55.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$0.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$10.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "RR": "FALSE",
+            "Final fine": "$10.00",
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$0.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$10.00",
+            "Requirements": "$0.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": []
@@ -929,19 +1025,19 @@
                 "Induction 2/17"
             ]
         },
-        "Requirement Fines": {
-            "Total Points": "0",
-            "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "Professional": "",
+        "Requirements": {
+            "Total Points": "9",
+            "Missing out of 9": "0",
+            "Missing out of 6": "0",
+            "Professional": "2",
             "Brotherhood": "2",
             "DEI": "1",
             "Fundraising": "2",
             "Community Service": "2",
-            "Total": "9",
-            "": "",
-            "Cleaned Name": "schwartz, megan",
-            "What type of event was it?": "Community Service"
+            "Total": "9"
+        },
+        "Rush Events": {
+            "events": []
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -951,13 +1047,14 @@
     "ujain23@terpmail.umd.edu": {
         "name": "jain, umang",
         "Fines": {
+            "RR": "FALSE",
             "Final fine": "$90.00",
-            "Brotherhood": "$5.00",
-            "Rush": "$0.00",
-            "Checkpoint": "$10.00",
-            "Ritual": "$30.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "Brotherhood Meetings": "$5.00",
+            "Rush Events": "$0.00",
+            "Checkpoints": "$10.00",
+            "Rituals": "$30.00",
+            "Requirements": "$45.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -980,10 +1077,13 @@
                 "Court of Honor"
             ]
         },
-        "Requirement Fines": {
+        "Requirements": {
             "Total Points": "0",
             "Missing out of 9": "9",
             "Missing out of 6": "6"
+        },
+        "Rush Events": {
+            "events": []
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -993,13 +1093,14 @@
     "ekapoor1@terpmail.umd.edu": {
         "name": "kapoor, esha",
         "Fines": {
+            "RR": "TRUE",
             "Final fine": "$35.00",
-            "Brotherhood": "$5.00",
-            "Rush": "$0.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$0.00",
-            "Requirement": "$30.00",
-            "Fine Reduction": "$0.00"
+            "Brotherhood Meetings": "$5.00",
+            "Rush Events": "$0.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$0.00",
+            "Requirements": "$30.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -1012,10 +1113,13 @@
         "Rituals": {
             "events": []
         },
-        "Requirement Fines": {
+        "Requirements": {
             "Total Points": "0",
             "Missing out of 9": "9",
             "Missing out of 6": "6"
+        },
+        "Rush Events": {
+            "events": []
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -1025,13 +1129,14 @@
     "kkarki1@terpmail.umd.edu": {
         "name": "karki, kamana",
         "Fines": {
+            "RR": "FALSE",
             "Final fine": "$65.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$0.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$20.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$0.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$20.00",
+            "Requirements": "$45.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -1049,10 +1154,13 @@
                 "Graduation"
             ]
         },
-        "Requirement Fines": {
+        "Requirements": {
             "Total Points": "0",
             "Missing out of 9": "9",
             "Missing out of 6": "6"
+        },
+        "Rush Events": {
+            "events": []
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -1062,13 +1170,14 @@
     "ryan.khan728@gmail.com": {
         "name": "khan, ryan",
         "Fines": {
+            "RR": "FALSE",
             "Final fine": "$115.00",
-            "Brotherhood": "$10.00",
-            "Rush": "$20.00",
-            "Checkpoint": "$10.00",
-            "Ritual": "$30.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "Brotherhood Meetings": "$10.00",
+            "Rush Events": "$20.00",
+            "Checkpoints": "$10.00",
+            "Rituals": "$30.00",
+            "Requirements": "$45.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -1092,10 +1201,18 @@
                 "Graduation"
             ]
         },
-        "Requirement Fines": {
+        "Requirements": {
             "Total Points": "0",
             "Missing out of 9": "9",
             "Missing out of 6": "6"
+        },
+        "Rush Events": {
+            "events": [
+                "Info Night* 9/11",
+                "CS Night * 9/13",
+                "Callback Night* 9/20 pm",
+                "Bid Night* 9/21 5pm"
+            ]
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -1105,13 +1222,14 @@
     "Ykhan125@terpmail.umd.edu": {
         "name": "khan, yusra",
         "Fines": {
+            "RR": "FALSE",
             "Final fine": "$45.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$0.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$0.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$0.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$0.00",
+            "Requirements": "$45.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": []
@@ -1124,10 +1242,13 @@
         "Rituals": {
             "events": []
         },
-        "Requirement Fines": {
+        "Requirements": {
             "Total Points": "0",
             "Missing out of 9": "9",
             "Missing out of 6": "6"
+        },
+        "Rush Events": {
+            "events": []
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -1137,13 +1258,14 @@
     "skim025@terpmail.umd.edu": {
         "name": "kim, so eun",
         "Fines": {
+            "RR": "FALSE",
             "Final fine": "$40.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$0.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$0.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$5.00"
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$0.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$0.00",
+            "Requirements": "$45.00",
+            "Fine Reduction Amount": "$5.00"
         },
         "Brotherhood Meetings": {
             "events": []
@@ -1156,19 +1278,19 @@
         "Rituals": {
             "events": []
         },
-        "Requirement Fines": {
+        "Requirements": {
             "Total Points": "0",
             "Missing out of 9": "9",
             "Missing out of 6": "6",
-            "Professional": "",
+            "Professional": "2",
             "Brotherhood": "3",
             "DEI": "2",
             "Fundraising": "1",
             "Community Service": "0",
-            "Total": "8",
-            "": "",
-            "Cleaned Name": "o'toole, jack",
-            "What type of event was it?": "Professional"
+            "Total": "8"
+        },
+        "Rush Events": {
+            "events": []
         },
         "Fine Reduction Amount": {
             "Credit Hours": "1",
@@ -1178,13 +1300,14 @@
     "koradagoutham01@gmail.com": {
         "name": "korada, goutham",
         "Fines": {
+            "RR": "FALSE",
             "Final fine": "$65.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$0.00",
-            "Checkpoint": "$10.00",
-            "Ritual": "$10.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$0.00",
+            "Checkpoints": "$10.00",
+            "Rituals": "$10.00",
+            "Requirements": "$45.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -1204,10 +1327,13 @@
                 "Graduation"
             ]
         },
-        "Requirement Fines": {
+        "Requirements": {
             "Total Points": "0",
             "Missing out of 9": "9",
             "Missing out of 6": "6"
+        },
+        "Rush Events": {
+            "events": []
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -1217,13 +1343,14 @@
     "hkreger@terpmail.umd.edu": {
         "name": "kreger, henry",
         "Fines": {
+            "RR": "FALSE",
             "Final fine": "$125.00",
-            "Brotherhood": "$15.00",
-            "Rush": "$15.00",
-            "Checkpoint": "$10.00",
-            "Ritual": "$40.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "Brotherhood Meetings": "$15.00",
+            "Rush Events": "$15.00",
+            "Checkpoints": "$10.00",
+            "Rituals": "$40.00",
+            "Requirements": "$45.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -1249,10 +1376,17 @@
                 "Graduation"
             ]
         },
-        "Requirement Fines": {
+        "Requirements": {
             "Total Points": "0",
             "Missing out of 9": "9",
             "Missing out of 6": "6"
+        },
+        "Rush Events": {
+            "events": [
+                "Info Night* 9/11",
+                "Callback Night* 9/20 pm",
+                "Bid Night* 9/21 5pm"
+            ]
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -1262,13 +1396,14 @@
     "hillary.lam23@gmail.com": {
         "name": "lam, hillary",
         "Fines": {
-            "Final fine": "$55.00",
-            "Brotherhood": "$15.00",
-            "Rush": "$0.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$10.00",
-            "Requirement": "$30.00",
-            "Fine Reduction": "$0.00"
+            "RR": "TRUE",
+            "Final fine": "$30.00",
+            "Brotherhood Meetings": "$15.00",
+            "Rush Events": "$0.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$10.00",
+            "Requirements": "$5.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -1287,19 +1422,19 @@
                 "Induction 2/17"
             ]
         },
-        "Requirement Fines": {
-            "Total Points": "0",
-            "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "Professional": "",
+        "Requirements": {
+            "Total Points": "5",
+            "Missing out of 9": "4",
+            "Missing out of 6": "1",
+            "Professional": "2",
             "Brotherhood": "1",
             "DEI": "1",
             "Fundraising": "0",
             "Community Service": "1",
-            "Total": "5",
-            "": "",
-            "Cleaned Name": "o'toole, jack",
-            "What type of event was it?": "Brotherhood"
+            "Total": "5"
+        },
+        "Rush Events": {
+            "events": []
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -1309,13 +1444,14 @@
     "vivienlau.home@gmail.com": {
         "name": "lau, vivien",
         "Fines": {
-            "Final fine": "$50.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$0.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$10.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$5.00"
+            "RR": "FALSE",
+            "Final fine": "$5.00",
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$0.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$10.00",
+            "Requirements": "$0.00",
+            "Fine Reduction Amount": "$5.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -1332,19 +1468,19 @@
                 "Midcourt"
             ]
         },
-        "Requirement Fines": {
-            "Total Points": "0",
-            "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "Professional": "",
+        "Requirements": {
+            "Total Points": "9",
+            "Missing out of 9": "0",
+            "Missing out of 6": "0",
+            "Professional": "3",
             "Brotherhood": "1",
             "DEI": "4",
             "Fundraising": "0",
             "Community Service": "1",
-            "Total": "9",
-            "": "",
-            "Cleaned Name": "o'toole, jack",
-            "What type of event was it?": "DEI"
+            "Total": "9"
+        },
+        "Rush Events": {
+            "events": []
         },
         "Fine Reduction Amount": {
             "Credit Hours": "1",
@@ -1354,13 +1490,14 @@
     "lazowill30@gmail.com": {
         "name": "lazo, william",
         "Fines": {
+            "RR": "FALSE",
             "Final fine": "$140.00",
-            "Brotherhood": "$20.00",
-            "Rush": "$25.00",
-            "Checkpoint": "$10.00",
-            "Ritual": "$40.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "Brotherhood Meetings": "$20.00",
+            "Rush Events": "$25.00",
+            "Checkpoints": "$10.00",
+            "Rituals": "$40.00",
+            "Requirements": "$45.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -1387,10 +1524,19 @@
                 "Graduation"
             ]
         },
-        "Requirement Fines": {
+        "Requirements": {
             "Total Points": "0",
             "Missing out of 9": "9",
             "Missing out of 6": "6"
+        },
+        "Rush Events": {
+            "events": [
+                "Info Night* 9/11",
+                "CS Night * 9/13",
+                "Professional Interviews* 9/18 7pm",
+                "Callback Night* 9/20 pm",
+                "Bid Night* 9/21 5pm"
+            ]
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -1400,13 +1546,14 @@
     "christopherli3064@gmail.com": {
         "name": "li, christopher",
         "Fines": {
+            "RR": "FALSE",
             "Final fine": "$45.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$0.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$0.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$0.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$0.00",
+            "Requirements": "$45.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -1419,10 +1566,13 @@
         "Rituals": {
             "events": []
         },
-        "Requirement Fines": {
+        "Requirements": {
             "Total Points": "0",
             "Missing out of 9": "9",
             "Missing out of 6": "6"
+        },
+        "Rush Events": {
+            "events": []
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -1432,13 +1582,14 @@
     "hannah227rgymnastics@gmail.com": {
         "name": "li, hannah",
         "Fines": {
-            "Final fine": "$55.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$0.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$10.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "RR": "FALSE",
+            "Final fine": "$50.00",
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$0.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$10.00",
+            "Requirements": "$40.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -1456,19 +1607,19 @@
                 "Induction 2/17"
             ]
         },
-        "Requirement Fines": {
-            "Total Points": "0",
-            "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "Professional": "",
+        "Requirements": {
+            "Total Points": "1",
+            "Missing out of 9": "8",
+            "Missing out of 6": "5",
+            "Professional": "0",
             "Brotherhood": "0",
             "DEI": "1",
             "Fundraising": "0",
             "Community Service": "0",
-            "Total": "1",
-            "": "",
-            "Cleaned Name": "dang, diem",
-            "What type of event was it?": "Fundraising"
+            "Total": "1"
+        },
+        "Rush Events": {
+            "events": []
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -1478,13 +1629,14 @@
     "mli12319@terpmail.umd.edu": {
         "name": "li, minshan",
         "Fines": {
+            "RR": "FALSE",
             "Final fine": "$70.00",
-            "Brotherhood": "$5.00",
-            "Rush": "$0.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$20.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "Brotherhood Meetings": "$5.00",
+            "Rush Events": "$0.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$20.00",
+            "Requirements": "$45.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Rituals": {
             "events": [
@@ -1492,10 +1644,13 @@
                 "Graduation"
             ]
         },
-        "Requirement Fines": {
+        "Requirements": {
             "Total Points": "0",
             "Missing out of 9": "9",
             "Missing out of 6": "6"
+        },
+        "Rush Events": {
+            "events": []
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -1505,13 +1660,14 @@
     "amarqu9@terpmail.umd.edu": {
         "name": "marquez, adilene",
         "Fines": {
-            "Final fine": "$60.00",
-            "Brotherhood": "$15.00",
-            "Rush": "$5.00",
-            "Checkpoint": "$10.00",
-            "Ritual": "$0.00",
-            "Requirement": "$30.00",
-            "Fine Reduction": "$0.00"
+            "RR": "TRUE",
+            "Final fine": "$40.00",
+            "Brotherhood Meetings": "$15.00",
+            "Rush Events": "$5.00",
+            "Checkpoints": "$10.00",
+            "Rituals": "$0.00",
+            "Requirements": "$10.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -1529,19 +1685,21 @@
         "Rituals": {
             "events": []
         },
-        "Requirement Fines": {
-            "Total Points": "0",
-            "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "Professional": "DEI",
+        "Requirements": {
+            "Total Points": "4",
+            "Missing out of 9": "5",
+            "Missing out of 6": "2",
+            "Professional": "0",
             "Brotherhood": "2",
             "DEI": "1",
             "Fundraising": "1",
             "Community Service": "0",
-            "Total": "4",
-            "": "",
-            "Cleaned Name": "mukherjee, abhinav",
-            "What type of event was it?": "Professional"
+            "Total": "4"
+        },
+        "Rush Events": {
+            "events": [
+                "Bid Night* 9/21 5pm"
+            ]
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -1551,13 +1709,14 @@
     "mathurmudit03@gmail.com": {
         "name": "mathur, mudit",
         "Fines": {
-            "Final fine": "$30.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$0.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$0.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$15.00"
+            "RR": "FALSE",
+            "Final fine": "$5.00",
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$0.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$0.00",
+            "Requirements": "$20.00",
+            "Fine Reduction Amount": "$15.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -1571,19 +1730,19 @@
         "Rituals": {
             "events": []
         },
-        "Requirement Fines": {
-            "Total Points": "0",
-            "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "Professional": "",
+        "Requirements": {
+            "Total Points": "5",
+            "Missing out of 9": "4",
+            "Missing out of 6": "1",
+            "Professional": "3",
             "Brotherhood": "0",
             "DEI": "2",
             "Fundraising": "0",
             "Community Service": "0",
-            "Total": "5",
-            "": "",
-            "Cleaned Name": "chen, eileen",
-            "What type of event was it?": "DEI"
+            "Total": "5"
+        },
+        "Rush Events": {
+            "events": []
         },
         "Fine Reduction Amount": {
             "Credit Hours": "3",
@@ -1593,13 +1752,14 @@
     "amavani@terpmail.umd.edu": {
         "name": "mavani, anjolie",
         "Fines": {
-            "Final fine": "$55.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$10.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$0.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "RR": "FALSE",
+            "Final fine": "$45.00",
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$10.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$0.00",
+            "Requirements": "$35.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -1614,19 +1774,22 @@
         "Rituals": {
             "events": []
         },
-        "Requirement Fines": {
-            "Total Points": "0",
-            "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "Professional": "",
+        "Requirements": {
+            "Total Points": "2",
+            "Missing out of 9": "7",
+            "Missing out of 6": "4",
+            "Professional": "1",
             "Brotherhood": "0",
             "DEI": "0",
             "Fundraising": "1",
             "Community Service": "0",
-            "Total": "2",
-            "": "",
-            "Cleaned Name": "wang, jiayi",
-            "What type of event was it?": "Fundraising"
+            "Total": "2"
+        },
+        "Rush Events": {
+            "events": [
+                "CS Night * 9/13",
+                "Callback Night* 9/20 pm"
+            ]
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -1636,13 +1799,14 @@
     "jmcfadde@terpmail.umd.edu": {
         "name": "mcfadden, james",
         "Fines": {
+            "RR": "FALSE",
             "Final fine": "$75.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$10.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$20.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$10.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$20.00",
+            "Requirements": "$45.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -1662,10 +1826,16 @@
                 "Graduation"
             ]
         },
-        "Requirement Fines": {
+        "Requirements": {
             "Total Points": "0",
             "Missing out of 9": "9",
             "Missing out of 6": "6"
+        },
+        "Rush Events": {
+            "events": [
+                "Professional Interviews* 9/18 7pm",
+                "Callback Night* 9/20 pm"
+            ]
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -1675,13 +1845,14 @@
     "rowanmohan@gmail.com": {
         "name": "mohan, rowan",
         "Fines": {
+            "RR": "FALSE",
             "Final fine": "$45.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$0.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$0.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$0.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$0.00",
+            "Requirements": "$45.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": []
@@ -1694,10 +1865,13 @@
         "Rituals": {
             "events": []
         },
-        "Requirement Fines": {
+        "Requirements": {
             "Total Points": "0",
             "Missing out of 9": "9",
             "Missing out of 6": "6"
+        },
+        "Rush Events": {
+            "events": []
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -1707,13 +1881,14 @@
     "cmoon3611@gmail.com": {
         "name": "moon, chris",
         "Fines": {
-            "Final fine": "$45.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$0.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$0.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "RR": "FALSE",
+            "Final fine": "$0.00",
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$0.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$0.00",
+            "Requirements": "$0.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": []
@@ -1726,19 +1901,19 @@
         "Rituals": {
             "events": []
         },
-        "Requirement Fines": {
-            "Total Points": "0",
-            "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "Professional": "",
+        "Requirements": {
+            "Total Points": "10",
+            "Missing out of 9": "0",
+            "Missing out of 6": "0",
+            "Professional": "2",
             "Brotherhood": "2",
             "DEI": "2",
             "Fundraising": "2",
             "Community Service": "2",
-            "Total": "10",
-            "": "",
-            "Cleaned Name": "schwartz, megan",
-            "What type of event was it?": "Professional"
+            "Total": "10"
+        },
+        "Rush Events": {
+            "events": []
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -1748,13 +1923,14 @@
     "amukher1@terpmail.umd.edu": {
         "name": "mukherjee, abhinav",
         "Fines": {
-            "Final fine": "$35.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$5.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$0.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$15.00"
+            "RR": "FALSE",
+            "Final fine": "$20.00",
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$5.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$0.00",
+            "Requirements": "$30.00",
+            "Fine Reduction Amount": "$15.00"
         },
         "Brotherhood Meetings": {
             "events": []
@@ -1767,19 +1943,21 @@
         "Rituals": {
             "events": []
         },
-        "Requirement Fines": {
-            "Total Points": "0",
-            "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "Professional": "Brotherhood",
+        "Requirements": {
+            "Total Points": "3",
+            "Missing out of 9": "6",
+            "Missing out of 6": "3",
+            "Professional": "2",
             "Brotherhood": "0",
             "DEI": "1",
             "Fundraising": "0",
             "Community Service": "0",
-            "Total": "3",
-            "": "",
-            "Cleaned Name": "mukherjee, abhinav",
-            "What type of event was it?": "DEI"
+            "Total": "3"
+        },
+        "Rush Events": {
+            "events": [
+                "CS Night * 9/13"
+            ]
         },
         "Fine Reduction Amount": {
             "Credit Hours": "3",
@@ -1789,13 +1967,14 @@
     "sareet.nayak@gmail.com": {
         "name": "nayak, sareet",
         "Fines": {
+            "RR": "FALSE",
             "Final fine": "$0.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$0.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$0.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$20.00"
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$0.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$0.00",
+            "Requirements": "$5.00",
+            "Fine Reduction Amount": "$20.00"
         },
         "Brotherhood Meetings": {
             "events": []
@@ -1808,19 +1987,19 @@
         "Rituals": {
             "events": []
         },
-        "Requirement Fines": {
-            "Total Points": "0",
-            "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "Professional": "",
+        "Requirements": {
+            "Total Points": "8",
+            "Missing out of 9": "1",
+            "Missing out of 6": "0",
+            "Professional": "3",
             "Brotherhood": "1",
             "DEI": "1",
             "Fundraising": "2",
             "Community Service": "1",
-            "Total": "8",
-            "": "",
-            "Cleaned Name": "schwartz, megan",
-            "What type of event was it?": "DEI"
+            "Total": "8"
+        },
+        "Rush Events": {
+            "events": []
         },
         "Fine Reduction Amount": {
             "Credit Hours": "4",
@@ -1830,13 +2009,14 @@
     "dariusleenejad@gmail.com": {
         "name": "nejad, darius",
         "Fines": {
-            "Final fine": "$15.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$0.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$10.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$40.00"
+            "RR": "FALSE",
+            "Final fine": "$0.00",
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$0.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$10.00",
+            "Requirements": "$25.00",
+            "Fine Reduction Amount": "$40.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -1855,19 +2035,19 @@
                 "Midcourt"
             ]
         },
-        "Requirement Fines": {
-            "Total Points": "0",
-            "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "Professional": "",
+        "Requirements": {
+            "Total Points": "4",
+            "Missing out of 9": "5",
+            "Missing out of 6": "2",
+            "Professional": "1",
             "Brotherhood": "1",
             "DEI": "2",
             "Fundraising": "0",
             "Community Service": "0",
-            "Total": "4",
-            "": "",
-            "Cleaned Name": "wang, jiayi",
-            "What type of event was it?": "DEI"
+            "Total": "4"
+        },
+        "Rush Events": {
+            "events": []
         },
         "Fine Reduction Amount": {
             "Credit Hours": "8",
@@ -1877,13 +2057,14 @@
     "jhotoole@terpmail.umd.edu": {
         "name": "o'toole, jack",
         "Fines": {
-            "Final fine": "$50.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$5.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$0.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "RR": "FALSE",
+            "Final fine": "$25.00",
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$5.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$0.00",
+            "Requirements": "$20.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -1900,19 +2081,21 @@
         "Rituals": {
             "events": []
         },
-        "Requirement Fines": {
-            "Total Points": "0",
-            "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "Professional": "",
+        "Requirements": {
+            "Total Points": "5",
+            "Missing out of 9": "4",
+            "Missing out of 6": "1",
+            "Professional": "1",
             "Brotherhood": "2",
             "DEI": "2",
             "Fundraising": "0",
             "Community Service": "0",
-            "Total": "5",
-            "": "",
-            "Cleaned Name": "dang, diem",
-            "What type of event was it?": "Professional"
+            "Total": "5"
+        },
+        "Rush Events": {
+            "events": [
+                "Professional Interviews* 9/18 7pm"
+            ]
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -1922,13 +2105,14 @@
     "jognjano@terpmail.umd.edu": {
         "name": "ognjanovska, jana",
         "Fines": {
-            "Final fine": "$60.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$10.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$20.00",
-            "Requirement": "$30.00",
-            "Fine Reduction": "$0.00"
+            "RR": "TRUE",
+            "Final fine": "$30.00",
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$10.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$20.00",
+            "Requirements": "$0.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": []
@@ -1944,19 +2128,22 @@
                 "Graduation"
             ]
         },
-        "Requirement Fines": {
-            "Total Points": "0",
-            "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "Professional": "",
+        "Requirements": {
+            "Total Points": "7",
+            "Missing out of 9": "2",
+            "Missing out of 6": "0",
+            "Professional": "2",
             "Brotherhood": "1",
             "DEI": "1",
             "Fundraising": "1",
             "Community Service": "2",
-            "Total": "7",
-            "": "",
-            "Cleaned Name": "shroff, marvi",
-            "What type of event was it?": "Professional"
+            "Total": "7"
+        },
+        "Rush Events": {
+            "events": [
+                "Professional Interviews* 9/18 7pm",
+                "Bid Night* 9/21 5pm"
+            ]
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -1966,13 +2153,14 @@
     "ajortiz9@terpmail.umd.edu": {
         "name": "ortiz, adam",
         "Fines": {
-            "Final fine": "$55.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$0.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$10.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "RR": "FALSE",
+            "Final fine": "$35.00",
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$0.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$10.00",
+            "Requirements": "$25.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -1990,19 +2178,19 @@
                 "Induction 2/17"
             ]
         },
-        "Requirement Fines": {
-            "Total Points": "0",
-            "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "Professional": "",
+        "Requirements": {
+            "Total Points": "4",
+            "Missing out of 9": "5",
+            "Missing out of 6": "2",
+            "Professional": "2",
             "Brotherhood": "0",
             "DEI": "1",
             "Fundraising": "1",
             "Community Service": "0",
-            "Total": "4",
-            "": "",
-            "Cleaned Name": "yuan, meilin",
-            "What type of event was it?": "DEI"
+            "Total": "4"
+        },
+        "Rush Events": {
+            "events": []
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -2012,13 +2200,14 @@
     "megznj@terpmail.umd.edu": {
         "name": "padmanabhan, meghana",
         "Fines": {
-            "Final fine": "$70.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$5.00",
-            "Checkpoint": "$10.00",
-            "Ritual": "$10.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "RR": "FALSE",
+            "Final fine": "$50.00",
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$5.00",
+            "Checkpoints": "$10.00",
+            "Rituals": "$10.00",
+            "Requirements": "$25.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -2036,19 +2225,21 @@
                 "Midcourt"
             ]
         },
-        "Requirement Fines": {
-            "Total Points": "0",
-            "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "Professional": "",
+        "Requirements": {
+            "Total Points": "4",
+            "Missing out of 9": "5",
+            "Missing out of 6": "2",
+            "Professional": "2",
             "Brotherhood": "2",
             "DEI": "0",
             "Fundraising": "0",
             "Community Service": "0",
-            "Total": "4",
-            "": "",
-            "Cleaned Name": "chiang, jennifer",
-            "What type of event was it?": "DEI"
+            "Total": "4"
+        },
+        "Rush Events": {
+            "events": [
+                "CS Night * 9/13"
+            ]
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -2058,13 +2249,14 @@
     "avyaypotarlanka@gmail.com": {
         "name": "potarlanka, avyay",
         "Fines": {
+            "RR": "FALSE",
             "Final fine": "$0.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$0.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$10.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$60.00"
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$0.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$10.00",
+            "Requirements": "$20.00",
+            "Fine Reduction Amount": "$60.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -2082,19 +2274,19 @@
                 "Graduation"
             ]
         },
-        "Requirement Fines": {
-            "Total Points": "0",
-            "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "Professional": "",
+        "Requirements": {
+            "Total Points": "5",
+            "Missing out of 9": "4",
+            "Missing out of 6": "1",
+            "Professional": "2",
             "Brotherhood": "3",
             "DEI": "0",
             "Fundraising": "0",
             "Community Service": "0",
-            "Total": "5",
-            "": "",
-            "Cleaned Name": "marquez, adilene",
-            "What type of event was it?": "Fundraising"
+            "Total": "5"
+        },
+        "Rush Events": {
+            "events": []
         },
         "Fine Reduction Amount": {
             "Credit Hours": "12",
@@ -2104,13 +2296,14 @@
     "sp0822@terpmail.umd.edu": {
         "name": "pothagoni, shruti",
         "Fines": {
-            "Final fine": "$85.00",
-            "Brotherhood": "$5.00",
-            "Rush": "$5.00",
-            "Checkpoint": "$10.00",
-            "Ritual": "$20.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "RR": "FALSE",
+            "Final fine": "$60.00",
+            "Brotherhood Meetings": "$5.00",
+            "Rush Events": "$5.00",
+            "Checkpoints": "$10.00",
+            "Rituals": "$20.00",
+            "Requirements": "$20.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -2132,19 +2325,21 @@
                 "Graduation"
             ]
         },
-        "Requirement Fines": {
-            "Total Points": "0",
-            "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "Professional": "",
+        "Requirements": {
+            "Total Points": "5",
+            "Missing out of 9": "4",
+            "Missing out of 6": "1",
+            "Professional": "2",
             "Brotherhood": "1",
             "DEI": "0",
             "Fundraising": "1",
             "Community Service": "1",
-            "Total": "5",
-            "": "",
-            "Cleaned Name": "li, hannah",
-            "What type of event was it?": "DEI"
+            "Total": "5"
+        },
+        "Rush Events": {
+            "events": [
+                "CS Night * 9/13"
+            ]
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -2154,13 +2349,14 @@
     "meganschwartz51@gmail.com": {
         "name": "schwartz, megan",
         "Fines": {
-            "Final fine": "$45.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$5.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$0.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$5.00"
+            "RR": "FALSE",
+            "Final fine": "$15.00",
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$5.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$0.00",
+            "Requirements": "$15.00",
+            "Fine Reduction Amount": "$5.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -2177,19 +2373,21 @@
         "Rituals": {
             "events": []
         },
-        "Requirement Fines": {
-            "Total Points": "0",
-            "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "Professional": "",
+        "Requirements": {
+            "Total Points": "6",
+            "Missing out of 9": "3",
+            "Missing out of 6": "0",
+            "Professional": "1",
             "Brotherhood": "1",
             "DEI": "1",
             "Fundraising": "0",
             "Community Service": "3",
-            "Total": "6",
-            "": "",
-            "Cleaned Name": "dang, diem",
-            "What type of event was it?": "Brotherhood"
+            "Total": "6"
+        },
+        "Rush Events": {
+            "events": [
+                "CS Night * 9/13"
+            ]
         },
         "Fine Reduction Amount": {
             "Credit Hours": "1",
@@ -2199,13 +2397,14 @@
     "mshroff1@terpmail.umd.edu": {
         "name": "shroff, marvi",
         "Fines": {
-            "Final fine": "$57.50",
-            "Brotherhood": "$10.00",
-            "Rush": "$0.00",
-            "Checkpoint": "$10.00",
-            "Ritual": "$10.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$17.50"
+            "RR": "FALSE",
+            "Final fine": "$17.50",
+            "Brotherhood Meetings": "$10.00",
+            "Rush Events": "$0.00",
+            "Checkpoints": "$10.00",
+            "Rituals": "$10.00",
+            "Requirements": "$5.00",
+            "Fine Reduction Amount": "$17.50"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -2227,19 +2426,19 @@
                 "Graduation"
             ]
         },
-        "Requirement Fines": {
-            "Total Points": "0",
-            "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "Professional": "",
+        "Requirements": {
+            "Total Points": "8",
+            "Missing out of 9": "1",
+            "Missing out of 6": "0",
+            "Professional": "2",
             "Brotherhood": "2",
             "DEI": "1",
             "Fundraising": "1",
             "Community Service": "2",
-            "Total": "8",
-            "": "",
-            "Cleaned Name": "dang, diem",
-            "What type of event was it?": "Professional"
+            "Total": "8"
+        },
+        "Rush Events": {
+            "events": []
         },
         "Fine Reduction Amount": {
             "Credit Hours": "3.5",
@@ -2249,13 +2448,14 @@
     "ssims12@terpmail.umd.edu": {
         "name": "sims, summer",
         "Fines": {
-            "Final fine": "$50.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$5.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$0.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "RR": "FALSE",
+            "Final fine": "$40.00",
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$5.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$0.00",
+            "Requirements": "$35.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": []
@@ -2268,19 +2468,21 @@
         "Rituals": {
             "events": []
         },
-        "Requirement Fines": {
-            "Total Points": "0",
-            "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "Professional": "",
+        "Requirements": {
+            "Total Points": "2",
+            "Missing out of 9": "7",
+            "Missing out of 6": "4",
+            "Professional": "1",
             "Brotherhood": "0",
             "DEI": "1",
             "Fundraising": "0",
             "Community Service": "0",
-            "Total": "2",
-            "": "",
-            "Cleaned Name": "o'toole, jack",
-            "What type of event was it?": "DEI"
+            "Total": "2"
+        },
+        "Rush Events": {
+            "events": [
+                "CS Night * 9/13"
+            ]
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -2290,13 +2492,14 @@
     "theanmolsingh101@gmail.com": {
         "name": "singh, anmol",
         "Fines": {
+            "RR": "FALSE",
             "Final fine": "$55.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$0.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$10.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$0.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$10.00",
+            "Requirements": "$45.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -2314,10 +2517,13 @@
                 "Midcourt"
             ]
         },
-        "Requirement Fines": {
+        "Requirements": {
             "Total Points": "0",
             "Missing out of 9": "9",
             "Missing out of 6": "6"
+        },
+        "Rush Events": {
+            "events": []
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -2327,13 +2533,14 @@
     "arushi12singh@gmail.com": {
         "name": "singh, arushi",
         "Fines": {
+            "RR": "FALSE",
             "Final fine": "$105.00",
-            "Brotherhood": "$10.00",
-            "Rush": "$10.00",
-            "Checkpoint": "$10.00",
-            "Ritual": "$30.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "Brotherhood Meetings": "$10.00",
+            "Rush Events": "$10.00",
+            "Checkpoints": "$10.00",
+            "Rituals": "$30.00",
+            "Requirements": "$45.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -2357,10 +2564,16 @@
                 "Graduation"
             ]
         },
-        "Requirement Fines": {
+        "Requirements": {
             "Total Points": "0",
             "Missing out of 9": "9",
             "Missing out of 6": "6"
+        },
+        "Rush Events": {
+            "events": [
+                "Info Night* 9/11",
+                "CS Night * 9/13"
+            ]
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -2370,13 +2583,14 @@
     "xyu.robert@gmail.com": {
         "name": "xu, robert",
         "Fines": {
+            "RR": "FALSE",
             "Final fine": "$45.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$0.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$0.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$0.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$0.00",
+            "Requirements": "$45.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -2393,19 +2607,19 @@
         "Rituals": {
             "events": []
         },
-        "Requirement Fines": {
+        "Requirements": {
             "Total Points": "0",
             "Missing out of 9": "9",
             "Missing out of 6": "6",
-            "Professional": "",
+            "Professional": "1",
             "Brotherhood": "2",
             "DEI": "1",
             "Fundraising": "0",
             "Community Service": "0",
-            "Total": "4",
-            "": "",
-            "Cleaned Name": "yim, daeun",
-            "What type of event was it?": "Professional"
+            "Total": "4"
+        },
+        "Rush Events": {
+            "events": []
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -2415,13 +2629,14 @@
     "charlieteixeira5@gmail.com": {
         "name": "teixeira, charlie",
         "Fines": {
+            "RR": "FALSE",
             "Final fine": "$80.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$5.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$30.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$5.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$30.00",
+            "Requirements": "$45.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -2440,10 +2655,15 @@
                 "Graduation"
             ]
         },
-        "Requirement Fines": {
+        "Requirements": {
             "Total Points": "0",
             "Missing out of 9": "9",
             "Missing out of 6": "6"
+        },
+        "Rush Events": {
+            "events": [
+                "CS Night * 9/13"
+            ]
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -2453,13 +2673,14 @@
     "kaush2003@gmail.com": {
         "name": "vejju, kaushik",
         "Fines": {
-            "Final fine": "$85.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$10.00",
-            "Checkpoint": "$10.00",
-            "Ritual": "$20.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "RR": "FALSE",
+            "Final fine": "$60.00",
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$10.00",
+            "Checkpoints": "$10.00",
+            "Rituals": "$20.00",
+            "Requirements": "$20.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -2480,19 +2701,22 @@
                 "Graduation"
             ]
         },
-        "Requirement Fines": {
-            "Total Points": "0",
-            "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "Professional": "",
+        "Requirements": {
+            "Total Points": "5",
+            "Missing out of 9": "4",
+            "Missing out of 6": "1",
+            "Professional": "2",
             "Brotherhood": "2",
             "DEI": "1",
             "Fundraising": "0",
             "Community Service": "0",
-            "Total": "5",
-            "": "",
-            "Cleaned Name": "mathur, mudit",
-            "What type of event was it?": "Professional"
+            "Total": "5"
+        },
+        "Rush Events": {
+            "events": [
+                "CS Night * 9/13",
+                "Callback Night* 9/20 pm"
+            ]
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -2502,13 +2726,14 @@
     "anshvis@terpmail.umd.edu": {
         "name": "viswanathan, ansh",
         "Fines": {
+            "RR": "FALSE",
             "Final fine": "$45.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$0.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$0.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$0.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$0.00",
+            "Requirements": "$45.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -2523,10 +2748,13 @@
         "Rituals": {
             "events": []
         },
-        "Requirement Fines": {
+        "Requirements": {
             "Total Points": "0",
             "Missing out of 9": "9",
             "Missing out of 6": "6"
+        },
+        "Rush Events": {
+            "events": []
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -2536,13 +2764,14 @@
     "jiayiwangg2004@gmail.com": {
         "name": "wang, jiayi",
         "Fines": {
-            "Final fine": "$55.00",
-            "Brotherhood": "$5.00",
-            "Rush": "$5.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$0.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "RR": "FALSE",
+            "Final fine": "$15.00",
+            "Brotherhood Meetings": "$5.00",
+            "Rush Events": "$5.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$0.00",
+            "Requirements": "$5.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -2560,19 +2789,21 @@
         "Rituals": {
             "events": []
         },
-        "Requirement Fines": {
-            "Total Points": "0",
-            "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "Professional": "",
+        "Requirements": {
+            "Total Points": "8",
+            "Missing out of 9": "1",
+            "Missing out of 6": "0",
+            "Professional": "2",
             "Brotherhood": "2",
             "DEI": "1",
             "Fundraising": "2",
             "Community Service": "1",
-            "Total": "8",
-            "": "",
-            "Cleaned Name": "dang, diem",
-            "What type of event was it?": "DEI"
+            "Total": "8"
+        },
+        "Rush Events": {
+            "events": [
+                "CS Night * 9/13"
+            ]
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -2582,13 +2813,14 @@
     "daeunyim@gmail.com": {
         "name": "yim, da eun",
         "Fines": {
+            "RR": "FALSE",
             "Final fine": "$45.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$0.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$0.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$0.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$0.00",
+            "Requirements": "$45.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -2604,19 +2836,19 @@
         "Rituals": {
             "events": []
         },
-        "Requirement Fines": {
+        "Requirements": {
             "Total Points": "0",
             "Missing out of 9": "9",
             "Missing out of 6": "6",
-            "Professional": "Fundraising",
+            "Professional": "1",
             "Brotherhood": "0",
             "DEI": "0",
             "Fundraising": "1",
             "Community Service": "0",
-            "Total": "2",
-            "": "",
-            "Cleaned Name": "marquez, adilene",
-            "What type of event was it?": "Brotherhood"
+            "Total": "2"
+        },
+        "Rush Events": {
+            "events": []
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
@@ -2626,13 +2858,14 @@
     "myuan036@terpmail.umd.edu": {
         "name": "yuan, meilin",
         "Fines": {
-            "Final fine": "$50.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$0.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$10.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$5.00"
+            "RR": "FALSE",
+            "Final fine": "$5.00",
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$0.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$10.00",
+            "Requirements": "$0.00",
+            "Fine Reduction Amount": "$5.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -2651,19 +2884,19 @@
                 "Induction 2/17"
             ]
         },
-        "Requirement Fines": {
-            "Total Points": "0",
-            "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "Professional": "",
+        "Requirements": {
+            "Total Points": "9",
+            "Missing out of 9": "0",
+            "Missing out of 6": "0",
+            "Professional": "2",
             "Brotherhood": "2",
             "DEI": "2",
             "Fundraising": "1",
             "Community Service": "2",
-            "Total": "9",
-            "": "",
-            "Cleaned Name": "chen, eileen",
-            "What type of event was it?": "Professional"
+            "Total": "9"
+        },
+        "Rush Events": {
+            "events": []
         },
         "Fine Reduction Amount": {
             "Credit Hours": "1",
@@ -2673,13 +2906,14 @@
     "rzhang24@terpmail.umd.edu": {
         "name": "zhang, rebecca",
         "Fines": {
-            "Final fine": "$35.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$0.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$0.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$10.00"
+            "RR": "FALSE",
+            "Final fine": "$0.00",
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$0.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$0.00",
+            "Requirements": "$10.00",
+            "Fine Reduction Amount": "$10.00"
         },
         "Brotherhood Meetings": {
             "events": []
@@ -2690,19 +2924,19 @@
         "Rituals": {
             "events": []
         },
-        "Requirement Fines": {
-            "Total Points": "0",
-            "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "Professional": "",
+        "Requirements": {
+            "Total Points": "7",
+            "Missing out of 9": "2",
+            "Missing out of 6": "0",
+            "Professional": "2",
             "Brotherhood": "2",
             "DEI": "2",
             "Fundraising": "0",
             "Community Service": "1",
-            "Total": "7",
-            "": "",
-            "Cleaned Name": "wang, jiayi",
-            "What type of event was it?": "Professional"
+            "Total": "7"
+        },
+        "Rush Events": {
+            "events": []
         },
         "Fine Reduction Amount": {
             "Credit Hours": "2",
@@ -2712,13 +2946,14 @@
     "bzhao123@terpmail.umd.edu": {
         "name": "zhao, bill",
         "Fines": {
+            "RR": "FALSE",
             "Final fine": "$0.00",
-            "Brotherhood": "$0.00",
-            "Rush": "$0.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$10.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$10.00"
+            "Brotherhood Meetings": "$0.00",
+            "Rush Events": "$0.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$10.00",
+            "Requirements": "$10.00",
+            "Fine Reduction Amount": "$10.00"
         },
         "Brotherhood Meetings": {
             "events": []
@@ -2733,19 +2968,19 @@
                 "Induction 2/17"
             ]
         },
-        "Requirement Fines": {
-            "Total Points": "0",
-            "Missing out of 9": "9",
-            "Missing out of 6": "6",
-            "Professional": "",
+        "Requirements": {
+            "Total Points": "7",
+            "Missing out of 9": "2",
+            "Missing out of 6": "0",
+            "Professional": "2",
             "Brotherhood": "4",
             "DEI": "1",
             "Fundraising": "0",
             "Community Service": "0",
-            "Total": "7",
-            "": "",
-            "Cleaned Name": "shroff, marvi",
-            "What type of event was it?": "Professional"
+            "Total": "7"
+        },
+        "Rush Events": {
+            "events": []
         },
         "Fine Reduction Amount": {
             "Credit Hours": "2",
@@ -2755,13 +2990,14 @@
     "andyzheng235@gmail.com": {
         "name": "zheng, andrew",
         "Fines": {
+            "RR": "FALSE",
             "Final fine": "$75.00",
-            "Brotherhood": "$10.00",
-            "Rush": "$0.00",
-            "Checkpoint": "$0.00",
-            "Ritual": "$20.00",
-            "Requirement": "$45.00",
-            "Fine Reduction": "$0.00"
+            "Brotherhood Meetings": "$10.00",
+            "Rush Events": "$0.00",
+            "Checkpoints": "$0.00",
+            "Rituals": "$20.00",
+            "Requirements": "$45.00",
+            "Fine Reduction Amount": "$0.00"
         },
         "Brotherhood Meetings": {
             "events": [
@@ -2783,10 +3019,13 @@
                 "Graduation"
             ]
         },
-        "Requirement Fines": {
+        "Requirements": {
             "Total Points": "0",
             "Missing out of 9": "9",
             "Missing out of 6": "6"
+        },
+        "Rush Events": {
+            "events": []
         },
         "Fine Reduction Amount": {
             "Credit Hours": "0",
