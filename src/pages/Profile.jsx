@@ -2,7 +2,7 @@ import React, {useState} from "react";
 import Fine from "../components/Fine.jsx";
 import {auth} from "../firebase-config";
 
-export default function Profile({userData , signOut}) {
+export default function Profile({userData, signOut}) {
 	// list logic from fine data
 	// const [fineData, setFineData] = useState(
 	// 	FineData.map((fineObject) => {
@@ -21,9 +21,19 @@ export default function Profile({userData , signOut}) {
 		"Rush Events",
 	]; // everything that isn't requirements, or reductions
 	// fine elements from userData
+	console.log(userData);
 	const [fineData, setFineData] = useState(
 		Object.keys(userData)
 			.filter((key) => key != "name" && key != "Fines")
+			.sort((a, b) => {
+				console.log(a, b);
+				let val = 0;
+				if (a === "Fine Reduction Amount") return 2;
+				if (b === "Fine Reduction Amount") return -1;
+				if (a === "Requirements") return 1; // don't have to worry about b being fine reduction, because if that were the case we already returne -1
+				if (b === "Requirements") return -1;
+				return val;
+			})
 			.map((UserKey) => {
 				const fineObject = {
 					name: UserKey,
@@ -99,20 +109,29 @@ export default function Profile({userData , signOut}) {
 				<h1 className="greeting">
 					What's good {formatName(userData.name)}
 				</h1>
-				<h2> You have fines :) </h2>
-				<div className="total-fine-card">
-					<h1 className="fine-amount">
+				{parseInt(userData.Fines["Final fine"].substring[1]) > 0 ? (
+					<h2>You have no fines :)</h2>
+				) : (
+					<>
 						{" "}
-						{userData.Fines["Final fine"]}
-					</h1>
-					{fineData.reducedRequirements && (
-						<p className="reduced-tag">reduced requirements</p>
-					)}
-				</div>
-				<div className="fine-container">{fineElements}</div>
-
-				
-				<button className="sign-out" onClick={signOut}>Sign Out</button>
+						<h2> You have fines :) </h2>
+						<div className="total-fine-card">
+							<h1 className="fine-amount">
+								{" "}
+								{userData.Fines["Final fine"]}
+							</h1>
+							{fineData.reducedRequirements && (
+								<p className="reduced-tag">
+									reduced requirements
+								</p>
+							)}
+						</div>
+						<div className="fine-container">{fineElements}</div>
+						<button className="sign-out" onClick={signOut}>
+							Sign Out
+						</button>
+					</>
+				)}
 			</main>
 		</>
 	);
