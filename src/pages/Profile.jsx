@@ -14,7 +14,6 @@ export default function Profile({userData , signOut}) {
 	// 	})
 	// );
 
-
 	const events = [
 		"Brotherhood Meetings",
 		"Checkpoints",
@@ -93,7 +92,6 @@ export default function Profile({userData , signOut}) {
 			splitName[0][0].toUpperCase() +
 			splitName[0].substring(1)
 		);
-		return name;
 	}
 	return (
 		<>

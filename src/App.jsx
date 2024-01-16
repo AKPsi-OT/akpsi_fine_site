@@ -3,34 +3,27 @@ import "./App.css";
 import Home from "./pages/Home.jsx";
 import Profile from "./pages/Profile.jsx";
 
-import {ref, onValue, off} from "firebase/database";
+import {ref, get, off} from "firebase/database";
 import {database, auth} from "./firebase-config";
 
 function App() {
 	const [user, setUser] = useState(null); // Initialize as null
+	const [loading, setLoading] = useState(true);
 	const [dbData, setDbData] = useState(null);
-
-	useEffect(() => {
-		const dbRef = ref(database, "/users/");
-
-		const unsubscribe = onValue(dbRef, (snapshot) => {
-			setDbData(snapshot.val());
-		});
-
-		return () => off(dbRef, "value", unsubscribe);
-	}, []);
-
-	
 	useEffect(() => {
 		// Use Firebase Authentication's onAuthStateChanged to listen for user state changes
-		const unsubscribe = auth.onAuthStateChanged((authUser) => {
+		const unsubscribe = auth.onAuthStateChanged(async (authUser) => {
 			if (authUser) {
-				const storedUserData = JSON.parse(localStorage.getItem('userData'));
-				if (storedUserData) {
-					setUser({
-						email: authUser.email.replace(".", "_"),
-						data: storedUserData
-					});
+				try {
+					const dbRef = ref(database, "/users/");
+					const snapshot = await get(dbRef);
+					setDbData(snapshot.val());
+					const formattedEmail = authUser.email.replace(/\./g, "_");
+					if (formattedEmail in snapshot.val()) {
+						setUser(formattedEmail);
+					}
+				} catch (error) {
+					console.error("Error updating dbData:", error);
 				}
 			} else {
 				// User is signed out
@@ -40,28 +33,45 @@ function App() {
 
 		return () => {
 			// Unsubscribe the listener on cleanup to prevent memory leaks
+			setUser(null); // Set user to null
 			unsubscribe();
 		};
 	}, []);
 
+	useEffect(()=>{
+		setLoading(false)
+	},[dbData,user])
+	async function updateDbData() {
+		try {
+			const dbRef = ref(database, "/users/");
+			const snapshot = await get(dbRef);
+			setDbData(snapshot.val());
+		} catch (error) {
+			console.error("Error updating dbData:", error);
+		}
+	}
+
 	const signOut = async () => {
 		try {
-			
-		  await auth.signOut(); // Sign out the user
-		  localStorage.removeItem('userData');
-		  
+			await auth.signOut(); // Sign out the user
+			localStorage.removeItem("dbData");
 		} catch (error) {
-		  console.error("Error signing out:", error.message);
+			console.error("Error signing out:", error.message);
 		}
-	  };
+	};
 
-	
 	return (
 		<>
-			{!user && <Home setUser={setUser} dbData={dbData} />}
-			{user && dbData && <Profile userData={user.data} signOut = {signOut}/>}
+		  {loading ? <p>loading </p>: (
+			<>
+			  {!user && (
+				<Home setUser={setUser} updateDbData={updateDbData} dbData={dbData} />
+			  )}
+			  {user && <Profile userData={dbData[user]} signOut={signOut} />}
+			</>
+		  )}
 		</>
-	);
+	  );
 }
 
 export default App;

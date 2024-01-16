@@ -1,11 +1,16 @@
-import React, { useState } from "react";
-import { GoogleOAuthProvider, GoogleLogin } from "@react-oauth/google";
-import { jwtDecode } from "jwt-decode";
-import { auth, googleProvider } from "../firebase-config";
-import { GoogleAuthProvider, signInWithCredential,setPersistence, browserSessionPersistence } from 'firebase/auth';
+import React, {useState, useEffect} from "react";
 
+import {GoogleOAuthProvider, GoogleLogin} from "@react-oauth/google";
+import {jwtDecode} from "jwt-decode";
+import {auth, googleProvider} from "../firebase-config";
+import {
+	GoogleAuthProvider,
+	signInWithCredential,
+	setPersistence,
+	browserSessionPersistence,
+} from "firebase/auth";
 
-export default function Home({setUser,dbData}) {
+export default function Home({setUser, updateDbData, dbData}) {
 	// const [formContent, setFormContent] = useState({
 	// 	username: "",
 	// 	password: "",
@@ -19,30 +24,30 @@ export default function Home({setUser,dbData}) {
 		});
 	}
 
-	
-
 	const signInWithGoogleOAuth = async (googleResponse) => {
 		await setPersistence(auth, browserSessionPersistence); // Set persistent session
-    
-		const credential = GoogleAuthProvider.credential(googleResponse.credential);
-        try {
-            const userCredential = await signInWithCredential(auth, credential);
-            const decoded = jwtDecode(googleResponse.credential);
-			const formattedEmail = decoded.email.replace(".","_")
-            if ((formattedEmail in dbData)) {
-                setUser({
-					data: dbData[formattedEmail],
-					email: formattedEmail,
-				  });
-				  localStorage.setItem('userData', JSON.stringify(dbData[formattedEmail]));
-            } else {
-                alert("This email is not on our roster :/");
-				
-            }
-        } catch (error) {
-            console.error("Error signing in with Google OAuth:", error.message);
-        }
-    };
+
+		const credential = GoogleAuthProvider.credential(
+			googleResponse.credential
+		);
+		try {
+			const userCredential = await signInWithCredential(auth, credential);
+			const decoded = jwtDecode(googleResponse.credential);
+			const formattedEmail = decoded.email.replace(/\./g, "_");
+			
+			if (!dbData) {
+				await updateDbData();
+			}
+			if (formattedEmail in dbData) {
+				setUser(formattedEmail);
+			} else {
+				setUser(null);
+				alert("This email is not on our roster :/");
+			}
+		} catch (error) {
+			console.error("Error signing in with Google OAuth:", error.message);
+		}
+	};
 
 	return (
 		<main>

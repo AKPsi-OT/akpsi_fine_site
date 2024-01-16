@@ -35,7 +35,7 @@ export default function Fine({ name, amount, expanded, toggleExpand, details, re
 					{" "}
 					<p>You have missed these {eventName} :(</p>
 					
-					<p>each event is ${mutliplier} fine</p>
+					<p>each event is a ${multiplier} fine</p>
 					{details.events.join(", ")}
 				</div>
 			);
@@ -46,7 +46,7 @@ export default function Fine({ name, amount, expanded, toggleExpand, details, re
 						You have {details.requirements["Total Points"]} total points. You
 						need {reducedRequirements ? 6 : 9} !
 					</p>
-					<p> each missing point is worth ${multiplier}</p>
+					<p> each missing point is a ${multiplier} fine</p>
 					<ul>
 						<li>
 							You have {details.requirements.Brotherhood}{" "}
