@@ -1,7 +1,7 @@
 import gspread
 import json
 
-file_path = "./client_secret_key.json"
+file_path = "./client_secret_key-googlesheets.json"
 gc = gspread.service_account(filename=file_path)
 
 
@@ -40,14 +40,21 @@ sheetNameToColumnNames = {
 }
 
 
-dicData = {}
+dicData = {} # email-> data
 
 contactSheet = spreadsheet.worksheet("Master Contact Sheet").get_all_values()
 contactDic = {}  # dictionary -> name: email
 
+def formatEmail(email):
+    return email.replace(".","_").lower()
+
+
 for row in contactSheet[1:]:
-    contactDic[row[0].lower()] = row[1]
-    dicData[row[1]] = {"name": row[0].lower()}
+    name, email =  row[0].lower(), formatEmail(row[1])
+    contactDic[name] = email
+    dicData[email] = {"name": name}
+
+
 
 
 # email -> {name:,fines : {  final fine: , fine before reduction: },,}
@@ -67,7 +74,7 @@ for sheetName in sheetNames:
         if name not in contactDic:
             continue
 
-        email = contactDic[name]  # identify the email
+        email = formatEmail(contactDic[name])  # identify the email
         dicData[email][
             formmattedSheetName
         ] = {}  # use the email, sheetname to create dic
@@ -102,12 +109,15 @@ for row in sheet[
     if name not in contactDic:
         continue
 
-    email = contactDic[name]
+    email = formatEmail(contactDic[name])
     curDic = dicData[email]["Requirements"]
     for i in range(1, len(columnNames)):  # skip the name column
         curDic[columnNames[i]] = row[i]
 
 json_string = json.dumps(dicData, indent=4)
+
+
+
 
 with open("data.json", "w") as file:
     file.write(json_string)

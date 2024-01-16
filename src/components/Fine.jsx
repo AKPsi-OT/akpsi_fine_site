@@ -3,21 +3,28 @@ import React from "react";
 export default function Fine({ name, amount, expanded, toggleExpand, details, reducedRequirements }) {
 	let detailContent;
 	let eventName;
+	let multiplier=5;
 	switch (name) {
+
 		case "Brotherhood Meetings":
 			eventName = "brotherhoods";
+			multiplier = 5
 			break;
 		case "Rituals":
 			eventName = "rituals";
+			multiplier = 10
 			break;
 		case "Rush Events":
 			eventName = "rush events";
+			multiplier = 5
 			break;
 		case "Checkpoints":
 			eventName = "checkpoints";
+			multiplier = 5
 			break;
 		case "Requirement Fines":
 			eventName = "requirements";
+			multiplier = 5
 			break;
 	}
 
@@ -27,6 +34,8 @@ export default function Fine({ name, amount, expanded, toggleExpand, details, re
 				<div>
 					{" "}
 					<p>You have missed these {eventName} :(</p>
+					
+					<p>each event is ${mutliplier} fine</p>
 					{details.events.join(", ")}
 				</div>
 			);
@@ -37,6 +46,7 @@ export default function Fine({ name, amount, expanded, toggleExpand, details, re
 						You have {details.requirements["Total Points"]} total points. You
 						need {reducedRequirements ? 6 : 9} !
 					</p>
+					<p> each missing point is worth ${multiplier}</p>
 					<ul>
 						<li>
 							You have {details.requirements.Brotherhood}{" "}
