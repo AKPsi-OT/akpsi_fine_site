@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+akspi-fine-site-realtime-db-secret-key.json
+
+client_secret_key-googlesheets.json
